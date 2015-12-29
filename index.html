@@ -1,0 +1,70 @@
+<!doctype html>
+<html class="no-js">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=9, IE=10">
+
+    <title>GCC | District Maps</title>
+
+    <meta name="description" content="Grand Canyon Council BSA Districts Map">
+    <meta name="author" content="Vern Wolfley">
+    <link type="text/plain" rel="author" href="">
+    <meta name="contact" content="">
+    <meta name="url" content="">
+    <meta name="creation-date" content="12/21/2015">
+    <meta name="revision-date" content="12/21/2015">
+    <meta name="version" content="1.0.0">
+
+    <!-- Apple-Specific Meta Tags -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+    <link rel="shortcut icon" type="image-favorites-icon" href="img/bsa_favicon.ico">
+
+    <!-- ArcGIS API for JavaScript CSS-->
+    <link rel="stylesheet" href="https://js.arcgis.com/3.15/esri/css/esri.css">
+    <!-- Web Framework CSS - Bootstrap (getbootstrap.com) and Bootstrap-map-js (github.com/esri/bootstrap-map-js) -->
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="//esri.github.io/bootstrap-map-js/src/css/bootstrapmap.css">
+    <link rel="stylesheet" href="css/main.css">
+
+    <!-- ArcGIS API for JavaScript library references -->
+    <script src="https://js.arcgis.com/3.15/"></script>
+
+    <!-- Terraformer reference -->
+    <script src="./vendor/terraformer/terraformer.min.js"></script>
+    <script src="./vendor/terraformer-arcgis-parser/terraformer-arcgis-parser.min.js"></script>
+    <script src="js/main.js"></script>
+
+    </head>
+    <body>
+        <nav class="navbar navbar-fixed-top">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+              </button>
+              <span class="navbar-brand" href="#"><img class="navbar-brand-image" src="img/grand_canyon_logo_large.jpg" title="GCC_Logo">District Maps</span>
+            </div>
+            <div id="navbar" class="collapse navbar-collapse">
+              <ul class="nav navbar-nav">
+                <li class="active"><a href="http://www.grandcanyonbsa.org/">Home</a></li>
+              </ul>
+               <ul class="nav navbar-nav navbar-right">
+                <li id="search"></li>
+              </ul>
+            </div><!--/.nav-collapse -->
+          </div>
+        </nav>
+
+
+
+        <div id="mapDiv"></div>
+
+
+
+
+    </body>
+</html>

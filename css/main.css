@@ -1,0 +1,126 @@
+html, body, #mapDiv {
+  height: 100%;
+  width: 100%;
+}
+html {
+    font-size: 1em;
+    line-height: 1.4;
+}
+
+/* ==========================================================================
+   Nav Bar Styles
+   ========================================================================== */
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: 15px;
+}
+.navbar {
+    background-color: #153359;
+    border-color: #0b1b30;
+    color: #fff;
+    min-height: 100px;
+}
+.navbar-brand>img {
+    display: inline-block;
+}
+.navbar-brand {
+    float: left;
+    height: 100px;
+    padding: 5px 5px;
+    font-size: 18px;
+    line-height: 20px;
+}
+.navbar-brand-image {
+    display: inline-block;
+    /*height: 40px;*/
+    margin-right: 10px;
+    margin-left: 10px;
+}
+a {
+    color: #fff;
+}
+
+a:focus, a:hover {
+    color: #c0c0c0;
+}
+.nav>li>a:focus, .nav>li>a:hover {
+    text-decoration: none;
+    background-color: transparent;
+}
+.navbar-nav>li>a {
+    padding-top: 40px;
+    padding-bottom: 10px;
+    line-height: 20px;
+}
+/* ==========================================
+**** Custom Controls Styles ****
+============================================= */
+.esriSimpleSlider {
+    bottom: 55px !important;
+    border: none;
+    background-color: #153359;
+    color: #ffffff;
+}
+.esriSimpleSliderDecrementButton:hover,
+.esriSimpleSliderIncrementButton:hover {
+  background-color: #1f4b82;
+}
+.esriSimpleSliderVertical .esriSimpleSliderIncrementButton,
+.esriSimpleSliderVertical .esriSimpleSliderDecrementButton {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 27px;
+}
+.esriSimpleSliderVertical .esriSimpleSliderIncrementButton {
+  border-bottom: 1px solid #cccccc;
+}
+.esriSimpleSliderDisabledButton,
+.esriSimpleSliderDisabledButton:active,
+.esriSimpleSliderDisabledButton:hover {
+    cursor: default;
+    background-color: #cccccc;
+    color: #ffffff;
+}
+#HomeButton {
+    position: absolute;
+    bottom: 117px;
+    right: 15px;
+    z-index: 50;
+}
+.HomeButton .home {
+    background-color: #153359;
+}
+.HomeButton .home:hover {
+    background-color: #1f4b82;
+}
+
+#search {
+         display: block;
+         position: absolute;
+         z-index: 2;
+         top: 35px;
+         right: 50px;
+      }
+
+
+
+
+.esriPopup .titlePane, .esriPopup.light .titlePane, .esriPopup.dark .titlePane {
+    height: initial;
+    padding: 3px 0 3px 10px;
+    background-color: #3c3c3c;
+    font-size: 14px;
+}
+t1 {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.close:focus, .close:hover {
+    opacity: .75;
+}
+.close {
+    opacity: .5;
+}
