@@ -4,6 +4,7 @@
          "dojo/dom",
          "esri/map",
          "esri/dijit/HomeButton",
+         "esri/dijit/BasemapToggle",
          "esri/dijit/Popup",
          "esri/dijit/PopupTemplate",
          "esri/InfoTemplate",
@@ -14,11 +15,13 @@
          "esri/dijit/Search",
          "esri/tasks/locator",
          "esri/geometry/Extent",
+         "esri/layers/FeatureLayer",
 
          "./vendor/geojsonlayer.js",
          "dojo/domReady!"
      ],
-     function(dc, on, dom, Map, HomeButton, Popup, PopupTemplate, InfoTemplate, Color, SimpleMarkerSymbol, SimpleFillSymbol, SimpleLineSymbol, Search, Locator, Extent,GeoJsonLayer) {
+     function(dc, on, dom, Map, HomeButton, BasemapToggle, Popup, PopupTemplate, InfoTemplate, Color, SimpleMarkerSymbol, SimpleFillSymbol, SimpleLineSymbol, Search, Locator, Extent, FeatureLayer, GeoJsonLayer) {
+
 
 
          // create a popup to replace the map's info window
@@ -37,7 +40,6 @@
              hideDelay: -1
          }, dc.create("div"));
 
-
          // Create map
          var map = new Map("mapDiv", {
              basemap: "gray",
@@ -50,9 +52,9 @@
              infoWindow: popup
          });
 
-         map.on("load", function() {
-             addGeoJsonLayer("./data/gccDistricts.json");
-         });
+         // map.on("load", function() {
+         //     addGeoJsonLayer("./data/gccDistricts.json");
+         // });
 
          // create div for homebutton
          var homeButton = new HomeButton({
@@ -64,9 +66,19 @@
          homeButton._homeNode.title = "Original Extent";
          homeButton.startup();
 
+         //create toggleBasemap
+         var toggle = new BasemapToggle({
+             map: map,
+             visible: true,
+             basemap: "satellite"
+         }, dc.create("div", {
+             id: "BasemapToggle"
+         }, "mapDiv", "last"));
+         toggle.startup();
+
          var search = new Search({
              map: map
-             // sources: [],
+                 // sources: [],
          }, "search");
          search.startup();
 
@@ -94,18 +106,43 @@
          infoTemplate.setContent("<t1>${District}</t1><br>" + "District Executive: ${DE}<br>" + "<a href='${Website}'>Website Link</a>");
 
          // Add the layer
-         function addGeoJsonLayer(url) {
-             // Create the layer
-             var geoJsonLayer = new GeoJsonLayer({
-                 url: url,
-                 outFields: ["*"],
-                 infoTemplate: infoTemplate
-             });
-             // Zoom to layer
-             geoJsonLayer.on("update-end", function(e) {
-                 map.setExtent(e.target.extent.expand(1.2));
-             });
-             // Add to map
-             map.addLayer(geoJsonLayer);
-         }
+         var districtCollection = "./data/gccDistricts.json";
+
+         var FeatureLayer = new FeatureLayer(districtCollection, {
+            mode: FeatureLayer.MODE_SNAPSHOT,
+            InfoTemplate: infoTemplate,
+            outFields: ["*"]
+         });
+
+         // // Add the layer
+         // function addGeoJsonLayer(url) {
+         //     // Create the layer
+         //     var geoJsonLayer = new GeoJsonLayer({
+         //         url: url,
+         //         outFields: ["*"],
+         //         infoTemplate: infoTemplate
+         //     });
+         //     // Zoom to layer
+         //     geoJsonLayer.on("update-end", function(e) {
+         //         map.setExtent(e.target.extent.expand(1.2));
+         //     });
+         //     // Add to map
+         //     map.addLayer(geoJsonLayer);
+         // }
+
      });
+
+ // Bindings
+         //=================================================================================>
+         //
+         $(document).ready(function() {
+             //*** About modal binding
+             $("#aboutInfo").load("views/about.html");
+             //*** Legal Disclaimer modal binding
+             $("#legalDisclaimer").load("views/legalDisclaimer.html");
+
+             // // add version and date to about.html
+             // var version = "v1.0.1 | 12/30/2015";
+             // dom.byId("version").innerHTML = version;
+
+         });
