@@ -4,6 +4,7 @@
          "dojo/dom",
          "esri/map",
          "esri/dijit/HomeButton",
+         "esri/dijit/BasemapToggle",
          "esri/dijit/Popup",
          "esri/dijit/PopupTemplate",
          "esri/InfoTemplate",
@@ -18,8 +19,7 @@
          "./vendor/geojsonlayer.js",
          "dojo/domReady!"
      ],
-     function(dc, on, dom, Map, HomeButton, Popup, PopupTemplate, InfoTemplate, Color, SimpleMarkerSymbol, SimpleFillSymbol, SimpleLineSymbol, Search, Locator, Extent,GeoJsonLayer) {
-
+     function(dc, on, dom, Map, HomeButton, BasemapToggle, Popup, PopupTemplate, InfoTemplate, Color, SimpleMarkerSymbol, SimpleFillSymbol, SimpleLineSymbol, Search, Locator, Extent, GeoJsonLayer) {
 
          // create a popup to replace the map's info window
          var fillSymbol3 = new SimpleFillSymbol(SimpleFillSymbol.STYLE_BACKWARD_DIAGONAL,
@@ -36,7 +36,6 @@
              visibleWhenEmpty: false,
              hideDelay: -1
          }, dc.create("div"));
-
 
          // Create map
          var map = new Map("mapDiv", {
@@ -64,9 +63,19 @@
          homeButton._homeNode.title = "Original Extent";
          homeButton.startup();
 
+         //create toggleBasemap
+         var toggle = new BasemapToggle({
+             map: map,
+             visible: true,
+             basemap: "satellite"
+         }, dc.create("div", {
+             id: "BasemapToggle"
+         }, "mapDiv", "last"));
+         toggle.startup();
+
          var search = new Search({
              map: map
-             // sources: [],
+                 // sources: [],
          }, "search");
          search.startup();
 
@@ -108,4 +117,20 @@
              // Add to map
              map.addLayer(geoJsonLayer);
          }
+
      });
+
+ // Bindings
+ //=================================================================================>
+ //
+ $(document).ready(function() {
+     //*** About modal binding
+     $("#aboutInfo").load("views/about.html");
+     //*** Legal Disclaimer modal binding
+     $("#legalDisclaimer").load("views/legalDisclaimer.html");
+
+     // // add version and date to about.html
+     // var version = "v1.0.1 | 12/30/2015";
+     // dom.byId("version").innerHTML = version;
+
+ });

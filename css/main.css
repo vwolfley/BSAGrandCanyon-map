@@ -6,6 +6,9 @@ html {
     font-size: 1em;
     line-height: 1.4;
 }
+.legal {
+    font-size: small;
+}
 
 /* ==========================================================================
    Nav Bar Styles
@@ -38,21 +41,33 @@ html {
     margin-right: 10px;
     margin-left: 10px;
 }
-a {
+.nav>li>a {
     color: #fff;
 }
-
-a:focus, a:hover {
+.nav>li>a:focus, a:hover {
     color: #c0c0c0;
 }
 .nav>li>a:focus, .nav>li>a:hover {
     text-decoration: none;
+    color: #c0c0c0;
     background-color: transparent;
 }
 .navbar-nav>li>a {
     padding-top: 40px;
     padding-bottom: 10px;
     line-height: 20px;
+}
+#about {
+    display: inline-block;
+    position: absolute;
+    right: 1px;
+}
+#search {
+    display: inline-block;
+    position: absolute;
+    z-index: 2;
+    top: 35px;
+    right: 65px;
 }
 /* ==========================================
 **** Custom Controls Styles ****
@@ -95,14 +110,20 @@ a:focus, a:hover {
 .HomeButton .home:hover {
     background-color: #1f4b82;
 }
+#BasemapToggle {
+    position: absolute;
+    bottom: 58px;
+    right: 50px;
+    z-index: 50;
+}
+.BasemapToggle .basemapImage {
+    width: 41px;
+    height: 51px;
+}
+.BasemapToggle .basemapTitle {
+    width: auto;
+}
 
-#search {
-         display: block;
-         position: absolute;
-         z-index: 2;
-         top: 35px;
-         right: 50px;
-      }
 
 
 
@@ -117,10 +138,35 @@ t1 {
     font-weight: bold;
     font-size: 16px;
 }
-
 .close:focus, .close:hover {
     opacity: .75;
 }
 .close {
     opacity: .5;
+}
+.closeX {
+    margin: 2px 0 0 0;
+    padding: 0 5px 0 5px;
+    cursor: pointer;
+    color: #ffffff;
+    opacity: .5;
+}
+.closeX:hover,
+.closeX:focus {
+    color: #ffffff;
+    cursor: pointer;
+    opacity: .85;
+}
+
+/* ==========================================
+**** modal custom styles ****
+============================================= */
+.modal-header {
+    background-color: #102847;
+    color: #fff;
+}
+.modal-style {
+    background-color: #153359;
+    border-style: none;
+    color: #fff;
 }

@@ -67,7 +67,8 @@ define([
             this._updateState();
         },
 
-        _setDefaultSymbols: function () {
+        _setDefaultSymbols: function (e) {
+            console.log(e);
             function getRandomColor(mainColor, transparency) {
                 function getRandomInt(min, max) {
                     return Math.floor(Math.random() * (max - min + 1)) + min;
@@ -89,6 +90,7 @@ define([
             this._simplePolygonSym = new SimpleFillSymbol("solid",
                     new SimpleLineSymbol("solid", new Color([50, 50, 50, 0.15]), 1),
                     getRandomColor("green", 0.15));
+
             // Option to hardcod colors here
             // this._simplePointSym = new SimpleMarkerSymbol(SimpleMarkerSymbol.STYLE_CIRCLE, 8,
             //      new SimpleLineSymbol(SimpleLineSymbol.STYLE_SOLID, new Color([150, 150, 150]), 0.5),

@@ -25,17 +25,31 @@
     <!-- ArcGIS API for JavaScript CSS-->
     <link rel="stylesheet" href="https://js.arcgis.com/3.15/esri/css/esri.css">
     <!-- Web Framework CSS - Bootstrap (getbootstrap.com) and Bootstrap-map-js (github.com/esri/bootstrap-map-js) -->
-    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="//esri.github.io/bootstrap-map-js/src/css/bootstrapmap.css">
+     <!-- jQuery user interface CSS -->
+    <link rel="stylesheet" href="http://code.jquery.com/ui/1.10.4/themes/smoothness/jquery-ui.css">
     <link rel="stylesheet" href="css/main.css">
 
     <!-- ArcGIS API for JavaScript library references -->
     <script src="https://js.arcgis.com/3.15/"></script>
+    <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+    <script src="http://code.jquery.com/ui/1.10.4/jquery-ui.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 
     <!-- Terraformer reference -->
     <script src="./vendor/terraformer/terraformer.min.js"></script>
     <script src="./vendor/terraformer-arcgis-parser/terraformer-arcgis-parser.min.js"></script>
     <script src="js/main.js"></script>
+    <!-- Google Analytics -->
+    <script>
+        // (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+        // function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+        // e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+        // e.src='//www.google-analytics.com/analytics.js';
+        // r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+        // ga('create','UA-29422512-1');ga('send','pageview');
+    </script>
 
     </head>
     <body>
@@ -50,18 +64,33 @@
             </div>
             <div id="navbar" class="collapse navbar-collapse">
               <ul class="nav navbar-nav">
-                <li class="active"><a href="http://www.grandcanyonbsa.org/">Home</a></li>
+                <li class="active"><a href="http://www.grandcanyonbsa.org/" title="Home">Home</a></li>
               </ul>
                <ul class="nav navbar-nav navbar-right">
                 <li id="search"></li>
+                <li id="about" class="" role="button" data-toggle="modal" data-target="#aboutModal"><a href="#" title="About">About</a></li>
               </ul>
             </div><!--/.nav-collapse -->
           </div>
         </nav>
 
-
-
         <div id="mapDiv"></div>
+
+        <!-- About Modal -->
+        <!--==============================================================-->
+        <div class="modal fade" id="aboutModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+          <div class="modal-dialog">
+            <div id="aboutInfo" class="modal-content modal-style"></div>
+          </div><!-- /.modal-dialog -->
+        </div><!-- /end Modal -->
+
+        <!-- Legal Disclaimer Modal -->
+        <!--==============================================================-->
+        <div id="legalModal" class="modal fade bs-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+          <div class="modal-dialog modal-lg">
+            <div id="legalDisclaimer" class="modal-content"></div>
+          </div><!-- /.modal-dialog -->
+        </div><!-- /.modal -->
 
 
 
