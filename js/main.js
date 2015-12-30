@@ -15,14 +15,11 @@
          "esri/dijit/Search",
          "esri/tasks/locator",
          "esri/geometry/Extent",
-         "esri/layers/FeatureLayer",
 
          "./vendor/geojsonlayer.js",
          "dojo/domReady!"
      ],
-     function(dc, on, dom, Map, HomeButton, BasemapToggle, Popup, PopupTemplate, InfoTemplate, Color, SimpleMarkerSymbol, SimpleFillSymbol, SimpleLineSymbol, Search, Locator, Extent, FeatureLayer, GeoJsonLayer) {
-
-
+     function(dc, on, dom, Map, HomeButton, BasemapToggle, Popup, PopupTemplate, InfoTemplate, Color, SimpleMarkerSymbol, SimpleFillSymbol, SimpleLineSymbol, Search, Locator, Extent, GeoJsonLayer) {
 
          // create a popup to replace the map's info window
          var fillSymbol3 = new SimpleFillSymbol(SimpleFillSymbol.STYLE_BACKWARD_DIAGONAL,
@@ -52,9 +49,9 @@
              infoWindow: popup
          });
 
-         // map.on("load", function() {
-         //     addGeoJsonLayer("./data/gccDistricts.json");
-         // });
+         map.on("load", function() {
+             addGeoJsonLayer("./data/gccDistricts.json");
+         });
 
          // create div for homebutton
          var homeButton = new HomeButton({
@@ -106,43 +103,34 @@
          infoTemplate.setContent("<t1>${District}</t1><br>" + "District Executive: ${DE}<br>" + "<a href='${Website}'>Website Link</a>");
 
          // Add the layer
-         var districtCollection = "./data/gccDistricts.json";
-
-         var FeatureLayer = new FeatureLayer(districtCollection, {
-            mode: FeatureLayer.MODE_SNAPSHOT,
-            InfoTemplate: infoTemplate,
-            outFields: ["*"]
-         });
-
-         // // Add the layer
-         // function addGeoJsonLayer(url) {
-         //     // Create the layer
-         //     var geoJsonLayer = new GeoJsonLayer({
-         //         url: url,
-         //         outFields: ["*"],
-         //         infoTemplate: infoTemplate
-         //     });
-         //     // Zoom to layer
-         //     geoJsonLayer.on("update-end", function(e) {
-         //         map.setExtent(e.target.extent.expand(1.2));
-         //     });
-         //     // Add to map
-         //     map.addLayer(geoJsonLayer);
-         // }
+         function addGeoJsonLayer(url) {
+             // Create the layer
+             var geoJsonLayer = new GeoJsonLayer({
+                 url: url,
+                 outFields: ["*"],
+                 infoTemplate: infoTemplate
+             });
+             // Zoom to layer
+             geoJsonLayer.on("update-end", function(e) {
+                 map.setExtent(e.target.extent.expand(1.2));
+             });
+             // Add to map
+             map.addLayer(geoJsonLayer);
+         }
 
      });
 
  // Bindings
-         //=================================================================================>
-         //
-         $(document).ready(function() {
-             //*** About modal binding
-             $("#aboutInfo").load("views/about.html");
-             //*** Legal Disclaimer modal binding
-             $("#legalDisclaimer").load("views/legalDisclaimer.html");
+ //=================================================================================>
+ //
+ $(document).ready(function() {
+     //*** About modal binding
+     $("#aboutInfo").load("views/about.html");
+     //*** Legal Disclaimer modal binding
+     $("#legalDisclaimer").load("views/legalDisclaimer.html");
 
-             // // add version and date to about.html
-             // var version = "v1.0.1 | 12/30/2015";
-             // dom.byId("version").innerHTML = version;
+     // // add version and date to about.html
+     // var version = "v1.0.1 | 12/30/2015";
+     // dom.byId("version").innerHTML = version;
 
-         });
+ });
