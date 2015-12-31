@@ -22,8 +22,8 @@
     <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
     <link rel="shortcut icon" type="image-favorites-icon" href="img/bsa_favicon.ico">
 
-    <!-- ArcGIS API for JavaScript CSS-->
-    <link rel="stylesheet" href="https://js.arcgis.com/3.15/esri/css/esri.css">
+    <!-- Leaflet API for JavaScript CSS-->
+    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css" />
     <!-- Web Framework CSS - Bootstrap (getbootstrap.com) and Bootstrap-map-js (github.com/esri/bootstrap-map-js) -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="//esri.github.io/bootstrap-map-js/src/css/bootstrapmap.css">
@@ -31,16 +31,7 @@
     <link rel="stylesheet" href="http://code.jquery.com/ui/1.10.4/themes/smoothness/jquery-ui.css">
     <link rel="stylesheet" href="css/main.css">
 
-    <!-- ArcGIS API for JavaScript library references -->
-    <script src="https://js.arcgis.com/3.15/"></script>
-    <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
-    <script src="http://code.jquery.com/ui/1.10.4/jquery-ui.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 
-    <!-- Terraformer reference -->
-    <script src="./vendor/terraformer/terraformer.min.js"></script>
-    <script src="./vendor/terraformer-arcgis-parser/terraformer-arcgis-parser.min.js"></script>
-    <script src="js/main.js"></script>
     <!-- Google Analytics -->
     <script>
         // (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
@@ -92,8 +83,13 @@
           </div><!-- /.modal-dialog -->
         </div><!-- /.modal -->
 
-
-
-
     </body>
+    <!-- Leaflet API for JavaScript library references -->
+    <script src="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js"></script>
+    <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+    <script src="http://code.jquery.com/ui/1.10.4/jquery-ui.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+
+    <script src="data/gccDistricts.json"></script>
+    <script src="js/main.js"></script>
 </html>
