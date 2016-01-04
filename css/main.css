@@ -127,11 +127,40 @@ html {
 .BasemapToggle .basemapTitle {
     width: auto;
 }
+.leaflet-bar a {
+    background-color: #fff;
+    border-bottom: 1px solid #ccc;
+    /* border-bottom-color: rgb(204, 204, 204); */
+    color: #444;
+    display: block;
+    height: 26px;
+    width: 26px;
+    line-height: 1.45 !important;
+    text-align: center;
+    text-decoration: none;
+    font: bold 18px'Lucida Console', Monaco, monospace;
+}
+.leaflet-control-locate a {
+     padding: 0;
+}
 
+.leaflet-control-mapbox-geocoder-results a, .leaflet-control-mapbox-geocoder-results span {
+    padding: 0 10px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    display: block;
+    width: 100%;
+    font-size: 12px;
+    line-height: 26px;
+    text-align: left;
+    overflow: hidden;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: normal;
+}
 
-
-
-
+/* ==========================================
+**** Popup custom styles ****
+============================================= */
 .esriPopup .titlePane, .esriPopup.light .titlePane, .esriPopup.dark .titlePane {
     height: initial;
     padding: 3px 0 3px 10px;
@@ -161,6 +190,10 @@ t1 {
     cursor: pointer;
     opacity: .85;
 }
+.title {
+    font-weight: bold;
+    font-size: 14px;
+}
 
 /* ==========================================
 **** modal custom styles ****
@@ -173,4 +206,8 @@ t1 {
     background-color: #153359;
     border-style: none;
     color: #fff;
+}
+
+.leaflet-top .leaflet-control {
+    margin-top: 110px;
 }

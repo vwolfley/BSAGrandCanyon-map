@@ -14,10 +14,12 @@ CHANGELOG Town of Gila Bend Mapping Website
 * add About tab
 * add basemap toggle
 
-
 ### Version 1.0.0 (12/29/2015)
 
 * added search box to map header
 * added Home button to map
 * added Districts to map using json
 * Header Colors #153359/#1f4b82
+* using bootstrap
+* using ArcGIS API for JavaScript
+

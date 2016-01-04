@@ -4,7 +4,7 @@ var dists = {
     "type": "Feature",
     "properties": {
       "stroke": "#555555",
-      "stroke-width": 2,
+      "strokeWidth": 1,
       "stroke-opacity": 1,
       "fill": "#F66414",
       "fill-opacity": 0.5,
@@ -1750,7 +1750,7 @@ var dists = {
     "type": "Feature",
     "properties": {
       "stroke": "#555555",
-      "stroke-width": 2,
+      "strokeWidth": 1,
       "stroke-opacity": 1,
       "fill": "#8c0733",
       "fill-opacity": 0.5,
@@ -1981,7 +1981,7 @@ var dists = {
     "type": "Feature",
     "properties": {
       "stroke": "#555555",
-      "stroke-width": 2,
+      "strokeWidth": 1,
       "stroke-opacity": 1,
       "fill": "#3a9dc6",
       "fill-opacity": 0.5,
@@ -2125,7 +2125,7 @@ var dists = {
     "type": "Feature",
     "properties": {
       "stroke": "#555555",
-      "stroke-width": 2,
+      "strokeWidth": 1,
       "stroke-opacity": 1,
       "fill": "#f25170",
       "fill-opacity": 0.5,
@@ -2359,7 +2359,7 @@ var dists = {
     "type": "Feature",
     "properties": {
       "stroke": "#555555",
-      "stroke-width": 2,
+      "strokeWidth": 1,
       "stroke-opacity": 1,
       "fill": "#afc94c",
       "fill-opacity": 0.5,
@@ -2803,7 +2803,7 @@ var dists = {
     "type": "Feature",
     "properties": {
       "stroke": "#555555",
-      "stroke-width": 2,
+      "strokeWidth": 1,
       "stroke-opacity": 1,
       "fill": "#660066",
       "fill-opacity": 0.5,
@@ -4546,7 +4546,7 @@ var dists = {
     "type": "Feature",
     "properties": {
       "stroke": "#555555",
-      "stroke-width": 2,
+      "strokeWidth": 1,
       "stroke-opacity": 1,
       "fill": "#34b436",
       "fill-opacity": 0.5,
@@ -4645,7 +4645,7 @@ var dists = {
     "type": "Feature",
     "properties": {
       "stroke": "#555555",
-      "stroke-width": 2,
+      "strokeWidth": 1,
       "stroke-opacity": 1,
       "fill": "#085a09",
       "fill-opacity": 0.5,
@@ -7927,7 +7927,7 @@ var dists = {
     "type": "Feature",
     "properties": {
       "stroke": "#555555",
-      "stroke-width": 2,
+      "strokeWidth": 1,
       "stroke-opacity": 1,
       "fill": "#085a09",
       "fill-opacity": 0.5,
@@ -9718,7 +9718,7 @@ var dists = {
     "type": "Feature",
     "properties": {
       "stroke": "#555555",
-      "stroke-width": 2,
+      "strokeWidth": 1,
       "stroke-opacity": 1,
       "fill": "#ab0013",
       "fill-opacity": 0.75,
@@ -10362,7 +10362,7 @@ var dists = {
     "type": "Feature",
     "properties": {
       "stroke": "#555555",
-      "stroke-width": 2,
+      "strokeWidth": 1,
       "stroke-opacity": 1,
       "fill": "#ff0080",
       "fill-opacity": 0.5,
@@ -10566,7 +10566,7 @@ var dists = {
     "type": "Feature",
     "properties": {
       "stroke": "#555555",
-      "stroke-width": 2,
+      "strokeWidth": 1,
       "stroke-opacity": 1,
       "fill": "#0080c0",
       "fill-opacity": 0.5,
@@ -10800,7 +10800,7 @@ var dists = {
     "type": "Feature",
     "properties": {
       "stroke": "#555555",
-      "stroke-width": 2,
+      "strokeWidth": 1,
       "stroke-opacity": 1,
       "fill": "#0909a2",
       "fill-opacity": 0.5,
@@ -12342,7 +12342,7 @@ var dists = {
     "type": "Feature",
     "properties": {
       "stroke": "#555555",
-      "stroke-width": 2,
+      "strokeWidth": 1,
       "stroke-opacity": 1,
       "fill": "#2e8921",
       "fill-opacity": 0.5,
@@ -13806,7 +13806,7 @@ var dists = {
     "type": "Feature",
     "properties": {
       "stroke": "#555555",
-      "stroke-width": 2,
+      "strokeWidth": 1,
       "stroke-opacity": 1,
       "fill": "#00ffff",
       "fill-opacity": 0.5,
@@ -14484,7 +14484,7 @@ var dists = {
     "type": "Feature",
     "properties": {
       "stroke": "#555555",
-      "stroke-width": 2,
+      "strokeWidth": 1,
       "stroke-opacity": 1,
       "fill": "#800040",
       "fill-opacity": 0.5,
@@ -16365,7 +16365,7 @@ var dists = {
     "type": "Feature",
     "properties": {
       "stroke": "#555555",
-      "stroke-width": 2,
+      "strokeWidth": 1,
       "stroke-opacity": 1,
       "fill": "#008080",
       "fill-opacity": 0.5,
@@ -17481,7 +17481,7 @@ var dists = {
     "type": "Feature",
     "properties": {
       "stroke": "#555555",
-      "stroke-width": 2,
+      "strokeWidth": 1,
       "stroke-opacity": 1,
       "fill": "#ff8040",
       "fill-opacity": 0.5,
@@ -17823,7 +17823,7 @@ var dists = {
     "type": "Feature",
     "properties": {
       "stroke": "#555555",
-      "stroke-width": 2,
+      "strokeWidth": 1,
       "stroke-opacity": 1,
       "fill": "#0000ff",
       "fill-opacity": 0.5,
@@ -18105,7 +18105,7 @@ var dists = {
     "type": "Feature",
     "properties": {
       "stroke": "#555555",
-      "stroke-width": 2,
+      "strokeWidth": 1,
       "stroke-opacity": 1,
       "fill": "#8080c0",
       "fill-opacity": 0.5,
@@ -19953,7 +19953,7 @@ var dists = {
     "type": "Feature",
     "properties": {
       "stroke": "#555555",
-      "stroke-width": 2,
+      "strokeWidth": 1,
       "stroke-opacity": 1,
       "fill": "#8e1c86",
       "fill-opacity": 0.5,
@@ -25542,7 +25542,7 @@ var dists = {
     "type": "Feature",
     "properties": {
       "stroke": "#555555",
-      "stroke-width": 2,
+      "strokeWidth": 1,
       "stroke-opacity": 1,
       "fill": "#ab0013",
       "fill-opacity": 0.5,
