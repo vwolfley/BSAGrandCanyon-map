@@ -7,6 +7,11 @@ CHANGELOG Town of Gila Bend Mapping Website
 
 ### Version 1.1.0 (12/30/2015)
 
+* added basemap control box
+* added search box
+* added geolocation button
+* added homebutton
+* using MapBox
 * using Leaflet
 
 ### Version 1.0.1 (12/30/2015)

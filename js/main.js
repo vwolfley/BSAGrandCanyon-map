@@ -1,27 +1,29 @@
 // Leaflet style map
 
 // mapbox access Token
-L.mapbox.accessToken = 'pk.eyJ1IjoidndvbGZsZXkiLCJhIjoiY2lpdW40MjVuMDAyMnVna215anVtcWRsaCJ9.-Jn65V2EqkK-0SjT5N4kkQ';
+L.mapbox.accessToken = "pk.eyJ1IjoidndvbGZsZXkiLCJhIjoiY2lpdW40MjVuMDAyMnVna215anVtcWRsaCJ9.-Jn65V2EqkK-0SjT5N4kkQ";
 
 var mbAttr = 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, ' +
     '<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
     'Imagery © <a href="http://mapbox.com">Mapbox</a>';
 var mbUrl = 'https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6IjZjNmRjNzk3ZmE2MTcwOTEwMGY0MzU3YjUzOWFmNWZhIn0.Y8bhBaUMqFiPrDRW9hieoQ';
 
+var geoCodeSearch = "https://api.mapbox.com/geocoding/v5/mapbox.places/{query}.json?types=us,Arizona&access_token=pk.eyJ1IjoidndvbGZsZXkiLCJhIjoiY2lpdW40MjVuMDAyMnVna215anVtcWRsaCJ9.-Jn65V2EqkK-0SjT5N4kkQ";
+
 var grayscale = L.tileLayer(mbUrl, {
-    id: 'mapbox.light',
+    id: "mapbox.light",
     attribution: mbAttr,
     minZoom: 7,
     maxZoom: 18
 });
 var streets = L.tileLayer(mbUrl, {
-    id: 'mapbox.streets',
+    id: "mapbox.streets",
     attribution: mbAttr,
     minZoom: 7,
     maxZoom: 18
 });
 var satellite = L.tileLayer(mbUrl, {
-    id: 'mapbox.satellite',
+    id: "mapbox.satellite",
     attribution: mbAttr,
     minZoom: 7,
     maxZoom: 18
@@ -37,11 +39,11 @@ var map = L.map("mapDiv", {
     center: center,
     zoom: zoom,
     layers: [grayscale],
-    zoomControl: false,
+    zoomControl: false
 });
 
 // add the geocoder controller
-var geocoderControl = L.mapbox.geocoderControl('mapbox.places', {
+var geocoderControl = L.mapbox.geocoderControl("mapbox.places", {
     keepOpen: true,
     autocomplete: true
 });
@@ -49,7 +51,7 @@ geocoderControl.addTo(map);
 
 // listen for the found event and add a marker
 var geoMarker = "";
-geocoderControl.on('select', function(object) {
+geocoderControl.on("select", function(object) {
     // remove the previous maker
     map.removeLayer(geoMarker);
 
@@ -72,35 +74,36 @@ map.setMaxBounds(bounds);
 // custom zoom bar control that includes a Zoom Home function
 L.Control.zoomHome = L.Control.extend({
     options: {
-        position: 'bottomright',
-        zoomInText: '+',
-        zoomInTitle: 'Zoom in',
-        zoomOutText: '-',
-        zoomOutTitle: 'Zoom out',
+        position: "bottomright",
+        zoomInText: "+",
+        zoomInTitle: "Zoom in",
+        zoomOutText: "-",
+        zoomOutTitle: "Zoom out",
         zoomHomeText: '<i class="fa fa-home" style="line-height:1.65;"></i>',
-        zoomHomeTitle: 'Zoom home'
+        zoomHomeTitle: "Zoom home"
+
     },
 
     onAdd: function(map) {
-        var controlName = 'gin-control-zoom',
-            container = L.DomUtil.create('div', controlName + ' leaflet-bar'),
+        var controlName = "gin-control-zoom",
+            container = L.DomUtil.create("div", controlName + " leaflet-bar"),
             options = this.options;
 
         this._zoomInButton = this._createButton(options.zoomInText, options.zoomInTitle,
-            controlName + '-in', container, this._zoomIn);
+            controlName + "-in", container, this._zoomIn);
         this._zoomHomeButton = this._createButton(options.zoomHomeText, options.zoomHomeTitle,
-            controlName + '-home', container, this._zoomHome);
+            controlName + "-home", container, this._zoomHome);
         this._zoomOutButton = this._createButton(options.zoomOutText, options.zoomOutTitle,
-            controlName + '-out', container, this._zoomOut);
+            controlName + "-out", container, this._zoomOut);
 
         this._updateDisabled();
-        map.on('zoomend zoomlevelschange', this._updateDisabled, this);
+        map.on("zoomend zoomlevelschange", this._updateDisabled, this);
 
         return container;
     },
 
     onRemove: function(map) {
-        map.off('zoomend zoomlevelschange', this._updateDisabled, this);
+        map.off("zoomend zoomlevelschange", this._updateDisabled, this);
     },
 
     _zoomIn: function(e) {
@@ -116,22 +119,22 @@ L.Control.zoomHome = L.Control.extend({
     },
 
     _createButton: function(html, title, className, container, fn) {
-        var link = L.DomUtil.create('a', className, container);
+        var link = L.DomUtil.create("a", className, container);
         link.innerHTML = html;
-        link.href = '#';
+        link.href = "#";
         link.title = title;
 
-        L.DomEvent.on(link, 'mousedown dblclick', L.DomEvent.stopPropagation)
-            .on(link, 'click', L.DomEvent.stop)
-            .on(link, 'click', fn, this)
-            .on(link, 'click', this._refocusOnMap, this);
+        L.DomEvent.on(link, "mousedown dblclick", L.DomEvent.stopPropagation)
+            .on(link, "click", L.DomEvent.stop)
+            .on(link, "click", fn, this)
+            .on(link, "click", this._refocusOnMap, this);
 
         return link;
     },
 
     _updateDisabled: function() {
         var map = this._map,
-            className = 'leaflet-disabled';
+            className = "leaflet-disabled";
 
         L.DomUtil.removeClass(this._zoomInButton, className);
         L.DomUtil.removeClass(this._zoomOutButton, className);
@@ -153,26 +156,15 @@ function style(feature) {
     return {
         color: feature.properties.fill,
         weight: feature.properties.strokeWidth
-    }
+    };
 }
-
-// function popup(e) {
-//     var f = e.target.feature;
-//     var layer = e.target;
-//     console.log(f.properties.District);
-//     console.log(layer);
-//     var info1 = f.properties.District;
-//     var info2 = f.properties.DE;
-//     var info3 = f.properties.Website;
-//     layer.bindPopup("<span class='title'>" + info1 + "</span><br>District Executive: " + info2 + "<br><a href='" + info3 + "'>Website</a>");
-// }
 
 function highlightFeature(e) {
     var layer = e.target;
     layer.setStyle({
         weight: 5,
-        color: '#00ffbf',
-        dashArray: '',
+        color: "#00ffbf",
+        dashArray: "",
         fillOpacity: 0.35
     });
 
@@ -182,7 +174,7 @@ function highlightFeature(e) {
 }
 
 function resetHighlight(e) {
-    geojson.resetStyle(e.target);
+    districts.resetStyle(e.target);
 }
 
 function zoomToFeature(e) {
@@ -204,17 +196,24 @@ function onEachFeature(feature, layer) {
     layer.bindPopup(popupContent);
 }
 // add districts layer
-var geojson = L.geoJson(dists, {
+var districts = L.geoJson(dists, {
     style: style,
     onEachFeature: onEachFeature
 }).addTo(map);
 
+// // add zipcode layer
+// var zipcodes = L.geoJson(zips, {
+//     style: style
+// }).addTo(map);
+
 var overLays = {
-    "Districts": geojson
+    "Districts": districts,
+    // "Zip Codes": zipcodes
 };
 L.control.layers(baseMaps, overLays).addTo(map);
 L.control.locate({
-    position: 'bottomright'
+    position: "bottomright"
+
 }).addTo(map);
 
 
