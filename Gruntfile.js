@@ -16,6 +16,28 @@ module.exports = function(grunt) {
             ' * @author <%= pkg.author %>\n' +
             '*/\n',
 
+        bannercss: '/*! ========================================================================\n' +
+            ' * Maricopa Association of Governments\n' +
+            ' * CSS files for MAG Main Map Page\n' +
+            ' * concat.min.css | version | <%= pkg.version %>\n' +
+            ' * Production | <%= pkg.date %> | http://ims.azmag.gov/\n' +
+            ' * MAG Main Map Page\n' +
+            ' * ==========================================================================\n' +
+            ' * Copyright 2016 MAG\n' +
+            ' * Licensed under MIT\n' +
+            ' * ========================================================================== */\n',
+
+            bannerjs:   '/*! ========================================================================\n' +
+                    ' * Maricopa Association of Governments\n' +
+                    ' * JavaScript files for MAG Main Map Page\n' +
+                    ' * main.min.js | version | <%= pkg.version %>\n' +
+                    ' * Production | <%= pkg.date %> | http://ims.azmag.gov/\n' +
+                    ' * MAG Main Map Page\n' +
+                    ' * ==========================================================================\n' +
+                    ' * Copyright 2016 MAG\n' +
+                    ' * Licensed under MIT\n' +
+                    ' * ========================================================================== */\n',
+
         htmlhint: {
             build: {
                 options: {
@@ -111,6 +133,47 @@ module.exports = function(grunt) {
             }
         },
 
+         replace: {
+            update_Meta: {
+                src: ["index.html", "about.html", "contact.html", "details.html", "js/main.js", "humans.txt", "README.md", "css/main.css"], // source files array
+                // src: ["README.md"], // source files array
+                overwrite: true, // overwrite matched source files
+                replacements: [{
+                    // html pages
+                    from: /(<meta name="revision-date" content=")[0-9]{2}\/[0-9]{2}\/[0-9]{4}(">)/g,
+                    to: '<meta name="revision-date" content="' + '<%= pkg.date %>' + '">',
+                }, {
+                    // html pages
+                    from: /(<meta name="version" content=")([0-9]+)(?:\.([0-9]+))(?:\.([0-9]+))(">)/g,
+                    to: '<meta name="version" content="' + '<%= pkg.version %>' + '">',
+                }, {
+                    // main.js
+                    from: /(MAG main.js)( \| )(v)([0-9]+)(?:\.([0-9]+))(?:\.([0-9]+))/g,
+                    to: "MAG main.js | v" + '<%= pkg.version %>',
+                }, {
+                    // main.js
+                    from: /(v)([0-9]+)(?:\.([0-9]+))(?:\.([0-9]+))( \| )[0-9]{2}\/[0-9]{2}\/[0-9]{4}/g,
+                    to: 'v' + '<%= pkg.version %>' + ' | ' + '<%= pkg.date %>',
+                }, {
+                    // humans.txt
+                    from: /(Version\: v)([0-9]+)(?:\.([0-9]+))(?:\.([0-9]+))/g,
+                    to: "Version: v" + '<%= pkg.version %>',
+                }, {
+                    // humans.txt
+                    from: /(Last updated\: )[0-9]{2}\/[0-9]{2}\/[0-9]{4}/g,
+                    to: "Last updated: " + '<%= pkg.date %>',
+                }, {
+                    // README.md
+                    from: /(#### `v)([0-9]+)(?:\.([0-9]+))(?:\.([0-9]+))( - )[0-9]{2}\/[0-9]{2}\/[0-9]{4}(`)/g,
+                    to: "#### `v" + '<%= pkg.version %>' + ' - ' + '<%= pkg.date %>' + '`',
+                }, {
+                    // main.css
+                    from: /(main.css)( \| )(version)( \| )([0-9]+)(?:\.([0-9]+))(?:\.([0-9]+))/g,
+                    to: "main.css | version |" +' <%= pkg.version %>',
+                }]
+            }
+        }
+
 
     });
 
@@ -118,6 +181,8 @@ module.exports = function(grunt) {
     // grunt.registerTask("test", ["uglify", "cssmin", "concat"]);
 
     grunt.registerTask("check", ["versioncheck"]);
+
+    grunt.registerTask("update", ["replace"]);
 
     grunt.registerTask("work", ["jshint"]);
 
