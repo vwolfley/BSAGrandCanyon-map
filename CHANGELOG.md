@@ -29,12 +29,12 @@ And constructed with the following guidelines:
 * using MapBox
 * using Leaflet
 
-### Version 1.0.1  (12/30/2015)
+### Version 1.0.1 | 12/30/2015
 
 * add About tab
 * add basemap toggle
 
-### Version 1.0.0  (12/29/2015)
+### Version 1.0.0 | 12/29/2015
 
 * added search box to map header
 * added Home button to map
