@@ -13,6 +13,10 @@ Map for Grand Canyon Council BSA showing District Boundaries
 
 ### Version
 
+## `version 1.0.0`
+ `Updated: 12/21/2015`
+ `Created: 12/21/2015`
+
 Releases will be numbered with the following format:
 
 `<major>.<minor>.<patch>`
@@ -24,10 +28,6 @@ And constructed with the following guidelines:
 3. PATCH version when you make backwards-compatible bug fixes and misc changes **bumps only the patch**
 
 ***************************************************************************************************************
-
-### `version 1.0.0`
-`Updated: 12/21/2015`
-`Created: 12/21/2015`
 
 ### Credits
 
