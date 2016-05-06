@@ -10,7 +10,7 @@ Map for Grand Canyon Council BSA showing District Boundaries and Unit Locations
 
 ### Keywords
 
-`BSA` `Boy Scouts of America` `Grand Canyon Council` `Units` `Districts` `Arizona` `Cubs` `Scouts` `Troop` `Team` `Crew`
+`BSA` `Boy Scouts of America` `Grand Canyon Council` `Units` `Districts` `Boundaries` `Cubs` `Scouts` `Troop` `Team` `Crew` `Arizona`
 
 ### Version
 
