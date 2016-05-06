@@ -18,9 +18,11 @@ And constructed with the following guidelines:
 
 ***********************************************
 
-### Version x.x.x  (xx/xx/2016)
+### Version x.x.x  
+(xx/xx/2016)
 
-### Version 1.1.0  (12/30/2015)
+### Version 1.1.0  
+(12/30/2015)
 
 * added basemap control box
 * added search box
