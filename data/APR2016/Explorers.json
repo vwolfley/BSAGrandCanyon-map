@@ -1,0 +1,1601 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 21,
+        "District_ID": 6,
+        "District": "Mesa District",
+        "subDistrict": "Mesa Exploring",
+        "Class": "Exploring",
+        "Unit_Name": "Salt River Fire Department",
+        "Unit_AltName": "",
+        "Unit_Type": "Post",
+        "Unit_Num": 2903,
+        "Unit_Class": "EP",
+        "Unit_ID": "EP2903",
+        "Address": "10005 E Osborn Rd",
+        "City": "Scottsdale",
+        "State": "AZ",
+        "Zipcode": 85256,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8651746,
+          33.48771597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 25,
+        "District_ID": 6,
+        "District": "Mesa District",
+        "subDistrict": "Mesa Exploring",
+        "Class": "Exploring",
+        "Unit_Name": "Salt River Police Department",
+        "Unit_AltName": "",
+        "Unit_Type": "Post",
+        "Unit_Num": 2909,
+        "Unit_Class": "EP",
+        "Unit_ID": "EP2909",
+        "Address": "10005 E Osborn Rd",
+        "City": "Scottsdale",
+        "State": "AZ",
+        "Zipcode": 85256,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8651746,
+          33.48771597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 53,
+        "District_ID": 20,
+        "District": "Ocotillo District",
+        "subDistrict": "Ocotillo Exploring",
+        "Class": "Exploring",
+        "Unit_Name": "Yuma County Sheriff",
+        "Unit_AltName": "",
+        "Unit_Type": "Post",
+        "Unit_Num": 8066,
+        "Unit_Class": "EP",
+        "Unit_ID": "EP8066",
+        "Address": "141 S 3rd Ave",
+        "City": "Yuma",
+        "State": "AZ",
+        "Zipcode": 85364,
+        "County": "Yuma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.6233395,
+          32.72431036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 102,
+        "District_ID": 5,
+        "District": "Lake Pleasant District",
+        "subDistrict": "Lake Pleasant Exploring",
+        "Class": "Exploring",
+        "Unit_Name": "Surprise Police Department",
+        "Unit_AltName": "",
+        "Unit_Type": "Post",
+        "Unit_Num": 2236,
+        "Unit_Class": "EP",
+        "Unit_ID": "EP2236",
+        "Address": "14250 W Statler Plaza",
+        "City": "Surprise",
+        "State": "AZ",
+        "Zipcode": 85374,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3661892,
+          33.62946388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 135,
+        "District_ID": 10,
+        "District": "Gila District",
+        "subDistrict": "Gila Exploring",
+        "Class": "Exploring",
+        "Unit_Name": "AZ Southern Gila County Sheriff Exploring",
+        "Unit_AltName": "",
+        "Unit_Type": "Post",
+        "Unit_Num": 5911,
+        "Unit_Class": "EP",
+        "Unit_ID": "EP5911",
+        "Address": "1100 E South St",
+        "City": "Globe",
+        "State": "AZ",
+        "Zipcode": 85501,
+        "County": "Gila"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.7686603,
+          33.39621294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 162,
+        "District_ID": 8,
+        "District": "Camelback District",
+        "subDistrict": "Camelback Exploring",
+        "Class": "Exploring",
+        "Unit_Name": "Maricopa County Sheriff Office",
+        "Unit_AltName": "",
+        "Unit_Type": "Post",
+        "Unit_Num": 2502,
+        "Unit_Class": "EP",
+        "Unit_ID": "EP2502",
+        "Address": "102 W Madison St",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": 85003,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0752879,
+          33.44607942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 247,
+        "District_ID": 20,
+        "District": "Ocotillo District",
+        "subDistrict": "Ocotillo Exploring",
+        "Class": "Exploring",
+        "Unit_Name": "City of Yuma Police Department",
+        "Unit_AltName": "",
+        "Unit_Type": "Post",
+        "Unit_Num": 8050,
+        "Unit_Class": "EP",
+        "Unit_ID": "EP8050",
+        "Address": "1500 S 1st Ave",
+        "City": "Yuma",
+        "State": "AZ",
+        "Zipcode": 85364,
+        "County": "Yuma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.6204093,
+          32.7008303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 375,
+        "District_ID": 3,
+        "District": "Firebird District",
+        "subDistrict": "Firebird Exploring",
+        "Class": "Exploring",
+        "Unit_Name": "Goodyear Police Department",
+        "Unit_AltName": "",
+        "Unit_Type": "Post",
+        "Unit_Num": 2967,
+        "Unit_Class": "EP",
+        "Unit_ID": "EP2967",
+        "Address": "175 N 145th Ave",
+        "City": "Goodyear",
+        "State": "AZ",
+        "Zipcode": 85338,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3710519,
+          33.44870939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 518,
+        "District_ID": 6,
+        "District": "Mesa District",
+        "subDistrict": "Mesa Exploring",
+        "Class": "Exploring",
+        "Unit_Name": "Mesa Police Explorer Post",
+        "Unit_AltName": "",
+        "Unit_Type": "Post",
+        "Unit_Num": 2055,
+        "Unit_Class": "EP",
+        "Unit_ID": "EP2055",
+        "Address": "130 N Robson",
+        "City": "Mesa",
+        "State": "AZ",
+        "Zipcode": 85201,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8367601,
+          33.41906058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 537,
+        "District_ID": 4,
+        "District": "Salt River District",
+        "subDistrict": "Salt River Exploring",
+        "Class": "Exploring",
+        "Unit_Name": "Tempe Police Department",
+        "Unit_AltName": "",
+        "Unit_Type": "Post",
+        "Unit_Num": 2272,
+        "Unit_Class": "EP",
+        "Unit_ID": "EP2272",
+        "Address": "120 E 5th St",
+        "City": "Tempe",
+        "State": "AZ",
+        "Zipcode": 85281,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9375111,
+          33.42551106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 544,
+        "District_ID": 6,
+        "District": "Mesa District",
+        "subDistrict": "Mesa Exploring",
+        "Class": "Exploring",
+        "Unit_Name": "USAF/ROA Mesa Chapter",
+        "Unit_AltName": "",
+        "Unit_Type": "Post",
+        "Unit_Num": 2396,
+        "Unit_Class": "EP",
+        "Unit_ID": "EP2396",
+        "Address": "120 N Val Vista Dr Lot 113",
+        "City": "Mesa",
+        "State": "AZ",
+        "Zipcode": 85213,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7537112,
+          33.41773152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 760,
+        "District_ID": 20,
+        "District": "Ocotillo District",
+        "subDistrict": "Ocotillo Exploring",
+        "Class": "Exploring",
+        "Unit_Name": "Somerton Fire Department Explorers",
+        "Unit_AltName": "",
+        "Unit_Type": "Post",
+        "Unit_Num": 8194,
+        "Unit_Class": "EP",
+        "Unit_ID": "EP8194",
+        "Address": "445 E Main St",
+        "City": "Somerton",
+        "State": "AZ",
+        "Zipcode": 85350,
+        "County": "Yuma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.7060348,
+          32.59602834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 769,
+        "District_ID": 6,
+        "District": "Mesa District",
+        "subDistrict": "Mesa Exploring",
+        "Class": "Exploring",
+        "Unit_Name": "East Valley Institute of Technology Fire Post",
+        "Unit_AltName": "",
+        "Unit_Type": "Post",
+        "Unit_Num": 2611,
+        "Unit_Class": "EP",
+        "Unit_ID": "EP2611",
+        "Address": "1601 W Main St",
+        "City": "Mesa",
+        "State": "AZ",
+        "Zipcode": 85202,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8655367,
+          33.41479522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 786,
+        "District_ID": 3,
+        "District": "Firebird District",
+        "subDistrict": "Firebird Exploring",
+        "Class": "Exploring",
+        "Unit_Name": "Cottonwood Fire Departement",
+        "Unit_AltName": "",
+        "Unit_Type": "Post",
+        "Unit_Num": 7411,
+        "Unit_Class": "EP",
+        "Unit_ID": "EP7411",
+        "Address": "191 S 6th st",
+        "City": "Cottonwood",
+        "State": "AZ",
+        "Zipcode": 85326,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0222184,
+          34.73633902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 829,
+        "District_ID": 14,
+        "District": "White Mountain District",
+        "subDistrict": "White Mountain Exploring",
+        "Class": "Exploring",
+        "Unit_Name": "Pinetop Lakeside Police Department",
+        "Unit_AltName": "",
+        "Unit_Type": "Post",
+        "Unit_Num": 7060,
+        "Unit_Class": "EP",
+        "Unit_ID": "EP7060",
+        "Address": "1360 N Niels Hansen Ln",
+        "City": "Lakeside",
+        "State": "AZ",
+        "Zipcode": 85929,
+        "County": "Navajo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.9767862,
+          34.15299481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 837,
+        "District_ID": 7,
+        "District": "Four Peaks District",
+        "subDistrict": "Four Peaks Exploring",
+        "Class": "Exploring",
+        "Unit_Name": "Fountain Hills/Rural Metro Fire",
+        "Unit_AltName": "",
+        "Unit_Type": "Post",
+        "Unit_Num": 2892,
+        "Unit_Class": "EP",
+        "Unit_ID": "EP2892",
+        "Address": "16426 E Palisades Blvd",
+        "City": "Fountain Hills",
+        "State": "AZ",
+        "Zipcode": 85268,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7253238,
+          33.61036309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 841,
+        "District_ID": 8,
+        "District": "Camelback District",
+        "subDistrict": "Camelback Exploring",
+        "Class": "Exploring",
+        "Unit_Name": "Franklin High School Public Safety Post",
+        "Unit_AltName": "",
+        "Unit_Type": "Post",
+        "Unit_Num": 1645,
+        "Unit_Class": "EP",
+        "Unit_ID": "EP1645",
+        "Address": "1645 W McDowell Rd",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": 85007,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0950511,
+          33.46584094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 844,
+        "District_ID": 17,
+        "District": "Old Capitol District",
+        "subDistrict": "Old Capitol Exploring",
+        "Class": "Exploring",
+        "Unit_Name": "Prescott Fire Department",
+        "Unit_AltName": "",
+        "Unit_Type": "Post",
+        "Unit_Num": 7927,
+        "Unit_Class": "EP",
+        "Unit_ID": "EP7927",
+        "Address": "1700 Iron Springs Rd",
+        "City": "Prescott",
+        "State": "AZ",
+        "Zipcode": 86305,
+        "County": "Yavapai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.4998306,
+          34.57041076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 936,
+        "District_ID": 17,
+        "District": "Old Capitol District",
+        "subDistrict": "Old Capitol Exploring",
+        "Class": "Exploring",
+        "Unit_Name": "Prescott Police Department Explorer",
+        "Unit_AltName": "",
+        "Unit_Type": "Post",
+        "Unit_Num": 7778,
+        "Unit_Class": "EP",
+        "Unit_ID": "EP7778",
+        "Address": "222 S Marina St",
+        "City": "Prescott",
+        "State": "AZ",
+        "Zipcode": 86303,
+        "County": "Yavapai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.4673708,
+          34.53846028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1048,
+        "District_ID": 7,
+        "District": "Four Peaks District",
+        "subDistrict": "Four Peaks Exploring",
+        "Class": "Exploring",
+        "Unit_Name": "North Valley Law & Forensics",
+        "Unit_AltName": "",
+        "Unit_Type": "Post",
+        "Unit_Num": 2019,
+        "Unit_Class": "EP",
+        "Unit_ID": "EP2019",
+        "Address": "3950 E Bell Rd",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": 85032,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9983101,
+          33.64076086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1085,
+        "District_ID": 25,
+        "District": "Picacho Peak District",
+        "subDistrict": "Picacho Peak Exploring",
+        "Class": "Exploring",
+        "Unit_Name": "Eloy Fire District",
+        "Unit_AltName": "",
+        "Unit_Type": "Post",
+        "Unit_Num": 2997,
+        "Unit_Class": "EP",
+        "Unit_ID": "EP2997",
+        "Address": "4010 N Toltec Rd",
+        "City": "Eloy",
+        "State": "AZ",
+        "Zipcode": 85131,
+        "County": "Pinal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6194318,
+          32.79302664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1117,
+        "District_ID": 20,
+        "District": "Ocotillo District",
+        "subDistrict": "Ocotillo Exploring",
+        "Class": "Exploring",
+        "Unit_Name": "US Border Patrol Explorer Post",
+        "Unit_AltName": "",
+        "Unit_Type": "Post",
+        "Unit_Num": 8245,
+        "Unit_Class": "EP",
+        "Unit_ID": "EP8245",
+        "Address": "4151 S Avenue A",
+        "City": "Yuma",
+        "State": "AZ",
+        "Zipcode": 85365,
+        "County": "Yuma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.631837,
+          32.65358706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1180,
+        "District_ID": 23,
+        "District": "San Tan District",
+        "subDistrict": "Metro Exploring",
+        "Class": "Exploring",
+        "Unit_Name": "Chandler Police Department",
+        "Unit_AltName": "",
+        "Unit_Type": "Post",
+        "Unit_Num": 2910,
+        "Unit_Class": "EP",
+        "Unit_ID": "EP2910",
+        "Address": "4040 E Chandler Heights Rd",
+        "City": "Chandler",
+        "State": "AZ",
+        "Zipcode": 85226,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7713602,
+          33.23554495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1317,
+        "District_ID": 25,
+        "District": "Picacho Peak District",
+        "subDistrict": "Picacho Peak Exploring",
+        "Class": "Exploring",
+        "Unit_Name": "Casa Grande Police Department",
+        "Unit_AltName": "",
+        "Unit_Type": "Post",
+        "Unit_Num": 2920,
+        "Unit_Class": "EP",
+        "Unit_ID": "EP2920",
+        "Address": "373 E Val Vista Blvd",
+        "City": "Casa Grande",
+        "State": "AZ",
+        "Zipcode": 85122,
+        "County": "Pinal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7511005,
+          32.87873005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1414,
+        "District_ID": 20,
+        "District": "Ocotillo District",
+        "subDistrict": "Ocotillo Exploring",
+        "Class": "Exploring",
+        "Unit_Name": "US Border Patrol - Wellton Station",
+        "Unit_AltName": "",
+        "Unit_Type": "Post",
+        "Unit_Num": 8246,
+        "Unit_Class": "EP",
+        "Unit_ID": "EP8246",
+        "Address": "10888 S Avenue 31 E",
+        "City": "Wellton",
+        "State": "AZ",
+        "Zipcode": 85356,
+        "County": "Yuma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.1270104,
+          32.67403025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1425,
+        "District_ID": 24,
+        "District": "Superstition District",
+        "subDistrict": "Superstition Exploring",
+        "Class": "Exploring",
+        "Unit_Name": "Apache Junction Police Department",
+        "Unit_AltName": "",
+        "Unit_Type": "Post",
+        "Unit_Num": 2980,
+        "Unit_Class": "EP",
+        "Unit_ID": "EP2980",
+        "Address": "300 E Superstition Blvd",
+        "City": "Apache Junction",
+        "State": "AZ",
+        "Zipcode": 85119,
+        "County": "Pinal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.5426825,
+          33.42237852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1434,
+        "District_ID": 18,
+        "District": "Verde District",
+        "subDistrict": "Verde Exploring",
+        "Class": "Exploring",
+        "Unit_Name": "Yavapai County Sheriff's Office",
+        "Unit_AltName": "",
+        "Unit_Type": "Post",
+        "Unit_Num": 7906,
+        "Unit_Class": "EP",
+        "Unit_ID": "EP7906",
+        "Address": "2830 N Commonwealth Dr Ste 105",
+        "City": "Camp Verde",
+        "State": "AZ",
+        "Zipcode": 86322,
+        "County": "Yavapai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9241506,
+          34.62158066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1943,
+        "District_ID": 20,
+        "District": "Ocotillo District",
+        "subDistrict": "Ocotillo Exploring",
+        "Class": "Exploring",
+        "Unit_Name": "Somerton Police Department",
+        "Unit_AltName": "",
+        "Unit_Type": "Post",
+        "Unit_Num": 8094,
+        "Unit_Class": "EP",
+        "Unit_ID": "EP8094",
+        "Address": "445 E Main St",
+        "City": "Somerton",
+        "State": "AZ",
+        "Zipcode": 85350,
+        "County": "Yuma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.7060348,
+          32.59602834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1973,
+        "District_ID": 25,
+        "District": "Picacho Peak District",
+        "subDistrict": "Metro Exploring",
+        "Class": "Exploring",
+        "Unit_Name": "Maricopa Police Department",
+        "Unit_AltName": "",
+        "Unit_Type": "Post",
+        "Unit_Num": 2100,
+        "Unit_Class": "EP",
+        "Unit_ID": "EP2100",
+        "Address": "39675 W Civic Center Plz",
+        "City": "Maricopa",
+        "State": "AZ",
+        "Zipcode": 85139,
+        "County": "Pinal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9938327,
+          33.04599533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2025,
+        "District_ID": 25,
+        "District": "Picacho Peak District",
+        "subDistrict": "Picacho Peak Exploring",
+        "Class": "Exploring",
+        "Unit_Name": "Ak Chin Fire Department",
+        "Unit_AltName": "",
+        "Unit_Type": "Post",
+        "Unit_Num": 2065,
+        "Unit_Class": "EP",
+        "Unit_ID": "EP2065",
+        "Address": "45401 W Farrell Rd",
+        "City": "Maricopa",
+        "State": "AZ",
+        "Zipcode": 85139,
+        "County": "Pinal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0559106,
+          33.02901725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2029,
+        "District_ID": 25,
+        "District": "Picacho Peak District",
+        "subDistrict": "Picacho Peak Exploring",
+        "Class": "Exploring",
+        "Unit_Name": "Pinal County Sheriff's Office",
+        "Unit_AltName": "",
+        "Unit_Type": "Post",
+        "Unit_Num": 1875,
+        "Unit_Class": "EP",
+        "Unit_ID": "EP1875",
+        "Address": "971 Jason Lopez Cir",
+        "City": "Florence",
+        "State": "AZ",
+        "Zipcode": 85132,
+        "County": "Pinal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.3773405,
+          33.04092069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2109,
+        "District_ID": 6,
+        "District": "Mesa District",
+        "subDistrict": "Mesa Exploring",
+        "Class": "Exploring",
+        "Unit_Name": "Rural Metro Fire Department East County",
+        "Unit_AltName": "",
+        "Unit_Type": "Post",
+        "Unit_Num": 2916,
+        "Unit_Class": "EP",
+        "Unit_ID": "EP2916",
+        "Address": "708 W Baseline Rd",
+        "City": "Mesa",
+        "State": "AZ",
+        "Zipcode": 85210,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8457007,
+          33.37885054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2270,
+        "District_ID": 7,
+        "District": "Four Peaks District",
+        "subDistrict": "Four Peaks Exploring",
+        "Class": "Exploring",
+        "Unit_Name": "Scottsdale Police Department",
+        "Unit_AltName": "",
+        "Unit_Type": "Post",
+        "Unit_Num": 2908,
+        "Unit_Class": "EP",
+        "Unit_ID": "EP2908",
+        "Address": "9065 E Via Linda",
+        "City": "Scottsdale",
+        "State": "AZ",
+        "Zipcode": 85258,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8834702,
+          33.56996003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2287,
+        "District_ID": 25,
+        "District": "Picacho Peak District",
+        "subDistrict": "Picacho Peak Exploring",
+        "Class": "Exploring",
+        "Unit_Name": "Coolidge Police Department",
+        "Unit_AltName": "",
+        "Unit_Type": "Post",
+        "Unit_Num": 2091,
+        "Unit_Class": "EP",
+        "Unit_ID": "EP2091",
+        "Address": "911 S Arizona Blvd",
+        "City": "Coolidge",
+        "State": "AZ",
+        "Zipcode": 85128,
+        "County": "Pinal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.5240315,
+          32.96977999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2401,
+        "District_ID": 23,
+        "District": "San Tan District",
+        "subDistrict": "San Tan Exploring",
+        "Class": "Exploring",
+        "Unit_Name": "Gilbert Department of Public Safety",
+        "Unit_AltName": "",
+        "Unit_Type": "Post",
+        "Unit_Num": 2912,
+        "Unit_Class": "EP",
+        "Unit_ID": "EP2912",
+        "Address": "75 E Civic Center Dr",
+        "City": "Gilbert",
+        "State": "AZ",
+        "Zipcode": 85296,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7872739,
+          33.33046499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2404,
+        "District_ID": 8,
+        "District": "Camelback District",
+        "subDistrict": "Camelback Exploring",
+        "Class": "Exploring",
+        "Unit_Name": "Tolleson Police Department",
+        "Unit_AltName": "",
+        "Unit_Type": "Post",
+        "Unit_Num": 2944,
+        "Unit_Class": "EP",
+        "Unit_ID": "EP2944",
+        "Address": "8350 W Van Buren St",
+        "City": "Tolleson",
+        "State": "AZ",
+        "Zipcode": 85353,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2397588,
+          33.4517197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2423,
+        "District_ID": 5,
+        "District": "Lake Pleasant District",
+        "subDistrict": "Lake Pleasant Exploring",
+        "Class": "Exploring",
+        "Unit_Name": "Peoria Police Department",
+        "Unit_AltName": "",
+        "Unit_Type": "Post",
+        "Unit_Num": 2999,
+        "Unit_Class": "EP",
+        "Unit_ID": "EP2999",
+        "Address": "8351 W Cinnabar Ave",
+        "City": "Peoria",
+        "State": "AZ",
+        "Zipcode": 85345,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2398711,
+          33.57539073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2431,
+        "District_ID": 19,
+        "District": "Zane Grey District",
+        "subDistrict": "Zane Grey Exploring",
+        "Class": "Exploring",
+        "Unit_Name": "Pine Strawberry Fire Department",
+        "Unit_AltName": "",
+        "Unit_Type": "Post",
+        "Unit_Num": 7611,
+        "Unit_Class": "EP",
+        "Unit_ID": "EP7611",
+        "Address": "6198 Hardscrabble Mesa Rd",
+        "City": "Pine",
+        "State": "AZ",
+        "Zipcode": 85544,
+        "County": "Gila"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.4564029,
+          34.39241196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2435,
+        "District_ID": 8,
+        "District": "Camelback District",
+        "subDistrict": "Camelback Exploring",
+        "Class": "Exploring",
+        "Unit_Name": "City of Phoenix Police Department",
+        "Unit_AltName": "",
+        "Unit_Type": "Post",
+        "Unit_Num": 2906,
+        "Unit_Class": "EP",
+        "Unit_ID": "EP2906",
+        "Address": "620 W Washington St",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": 85003,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0816408,
+          33.44824098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2436,
+        "District_ID": 8,
+        "District": "Camelback District",
+        "subDistrict": "Camelback Exploring",
+        "Class": "Exploring",
+        "Unit_Name": "Scottsdale Fire Department",
+        "Unit_AltName": "",
+        "Unit_Type": "Post",
+        "Unit_Num": 2601,
+        "Unit_Class": "EP",
+        "Unit_ID": "EP2601",
+        "Address": "8401 E Indian School Rd",
+        "City": "Scottsdale",
+        "State": "AZ",
+        "Zipcode": 85251,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8992011,
+          33.49486002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2479,
+        "District_ID": 8,
+        "District": "Camelback District",
+        "subDistrict": "Camelback Exploring",
+        "Class": "Exploring",
+        "Unit_Name": "Glendale Police Deparment",
+        "Unit_AltName": "",
+        "Unit_Type": "Post",
+        "Unit_Num": 2469,
+        "Unit_Class": "EP",
+        "Unit_ID": "EP2469",
+        "Address": "6835 N 57th Dr",
+        "City": "Glendale",
+        "State": "AZ",
+        "Zipcode": 85301,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1824194,
+          33.53745241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2514,
+        "District_ID": 3,
+        "District": "Firebird District",
+        "subDistrict": "Firebird Exploring",
+        "Class": "Exploring",
+        "Unit_Name": "Town of Buckeye Fire Department",
+        "Unit_AltName": "",
+        "Unit_Type": "Post",
+        "Unit_Num": 2703,
+        "Unit_Class": "EP",
+        "Unit_ID": "EP2703",
+        "Address": "530 E Monroe Ave",
+        "City": "Buckeye",
+        "State": "AZ",
+        "Zipcode": 85326,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.5839104,
+          33.3705011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2601,
+        "District_ID": 20,
+        "District": "Ocotillo District",
+        "subDistrict": "Ocotillo Exploring",
+        "Class": "Exploring",
+        "Unit_Name": "San Luis Police Department",
+        "Unit_AltName": "",
+        "Unit_Type": "Post",
+        "Unit_Num": 8044,
+        "Unit_Class": "EP",
+        "Unit_ID": "EP8044",
+        "Address": "Union St",
+        "City": "San Luis",
+        "State": "AZ",
+        "Zipcode": 85350,
+        "County": "Yuma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.778009,
+          32.49779078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2647,
+        "District_ID": 8,
+        "District": "Camelback District",
+        "subDistrict": "Camelback Exploring",
+        "Class": "Exploring",
+        "Unit_Name": "Arizona Department of Public Safety",
+        "Unit_AltName": "",
+        "Unit_Type": "Post",
+        "Unit_Num": 2403,
+        "Unit_Class": "EP",
+        "Unit_ID": "EP2403",
+        "Address": "",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": 85009,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1345701,
+          33.44765018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2657,
+        "District_ID": 1,
+        "District": "Thunderbird District",
+        "subDistrict": "Thunderbird Exploring",
+        "Class": "Exploring",
+        "Unit_Name": "Arizona Repeater Association",
+        "Unit_AltName": "",
+        "Unit_Type": "Post",
+        "Unit_Num": 2599,
+        "Unit_Class": "EP",
+        "Unit_ID": "EP2599",
+        "Address": "PO Box 35758",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": 85021,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1123811,
+          33.55685091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2663,
+        "District_ID": 11,
+        "District": "Apache District",
+        "subDistrict": "Apache Exploring",
+        "Class": "Exploring",
+        "Unit_Name": "St Johns Emergency Services",
+        "Unit_AltName": "",
+        "Unit_Type": "Post",
+        "Unit_Num": 7070,
+        "Unit_Class": "EP",
+        "Unit_ID": "EP7070",
+        "Address": "",
+        "City": "St Johns",
+        "State": "AZ",
+        "Zipcode": 85936,
+        "County": "Apache"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.3841053,
+          34.50647274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2709,
+        "District_ID": 6,
+        "District": "Mesa District",
+        "subDistrict": "Metro Exploring",
+        "Class": "Exploring",
+        "Unit_Name": "Commemorative Air Force",
+        "Unit_AltName": "",
+        "Unit_Type": "Post",
+        "Unit_Num": 2352,
+        "Unit_Class": "EP",
+        "Unit_ID": "EP2352",
+        "Address": "4733 E Encanto St",
+        "City": "Mesa",
+        "State": "AZ",
+        "Zipcode": 85205,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7286685,
+          33.43379825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2736,
+        "District_ID": 24,
+        "District": "Superstition District",
+        "subDistrict": "Superstition Exploring",
+        "Class": "Exploring",
+        "Unit_Name": "Apache Junction Fire Department",
+        "Unit_AltName": "",
+        "Unit_Type": "Post",
+        "Unit_Num": 2261,
+        "Unit_Class": "EP",
+        "Unit_ID": "EP2261",
+        "Address": "565 N Idaho Rd",
+        "City": "Apache Junction",
+        "State": "AZ",
+        "Zipcode": 85119,
+        "County": "Pinal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.5460667,
+          33.42048983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2957,
+        "District_ID": 19,
+        "District": "Zane Grey District",
+        "subDistrict": "Zane Grey Exploring",
+        "Class": "Exploring",
+        "Unit_Name": "Northern Gila County Explorer's",
+        "Unit_AltName": "",
+        "Unit_Type": "Post",
+        "Unit_Num": 7434,
+        "Unit_Class": "EP",
+        "Unit_ID": "EP7434",
+        "Address": "108 W Main St",
+        "City": "Payson",
+        "State": "AZ",
+        "Zipcode": "",
+        "County": "Gila"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.3260611,
+          34.23139905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3007,
+        "District_ID": 25,
+        "District": "Picacho Peak District",
+        "subDistrict": "Metro Exploring",
+        "Class": "Exploring",
+        "Unit_Name": "City of Coolidge Fire",
+        "Unit_AltName": "",
+        "Unit_Type": "Post",
+        "Unit_Num": 2092,
+        "Unit_Class": "EP",
+        "Unit_ID": "EP2092",
+        "Address": "130 W Central Ave",
+        "City": "Coolidge",
+        "State": "AZ",
+        "Zipcode": "",
+        "County": "Pinal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.5168538,
+          32.97794651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3009,
+        "District_ID": 5,
+        "District": "Lake Pleasant District",
+        "subDistrict": "Metro Exploring",
+        "Class": "Exploring",
+        "Unit_Name": "El Mirage Police Department",
+        "Unit_AltName": "",
+        "Unit_Type": "Post",
+        "Unit_Num": 2780,
+        "Unit_Class": "EP",
+        "Unit_ID": "EP2780",
+        "Address": "12401 W Cinnabar Ave",
+        "City": "El Mirage",
+        "State": "AZ",
+        "Zipcode": "",
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3266867,
+          33.57399617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3012,
+        "District_ID": 15,
+        "District": "Arizona Route 66 District",
+        "subDistrict": "Metro Exploring",
+        "Class": "Exploring",
+        "Unit_Name": "High Country Fire Rescue",
+        "Unit_AltName": "",
+        "Unit_Type": "Post",
+        "Unit_Num": 2264,
+        "Unit_Class": "EP",
+        "Unit_ID": "EP2264",
+        "Address": "6593 N High Country Ln",
+        "City": "Williams",
+        "State": "AZ",
+        "Zipcode": "",
+        "County": "Coconino"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1656222,
+          35.3474235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3027,
+        "District_ID": 8,
+        "District": "Camelback District",
+        "subDistrict": "Four Peaks Exploring",
+        "Class": "Exploring",
+        "Unit_Name": "SySTEM Phoenix",
+        "Unit_AltName": "",
+        "Unit_Type": "Post",
+        "Unit_Num": 2015,
+        "Unit_Class": "EP",
+        "Unit_ID": "EP2015",
+        "Address": "1301 E Almeria Rd",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": "",
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0540197,
+          33.46637673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3030,
+        "District_ID": 10,
+        "District": "Gila District",
+        "subDistrict": "Metro Exploring",
+        "Class": "Exploring",
+        "Unit_Name": "Queen Valley Fire District",
+        "Unit_AltName": "",
+        "Unit_Type": "Post",
+        "Unit_Num": 2031,
+        "Unit_Class": "EP",
+        "Unit_ID": "EP2031",
+        "Address": "1494 E Queen Valley Dr",
+        "City": "Queen Valley",
+        "State": "AZ",
+        "Zipcode": "",
+        "County": "Pinal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.2878068,
+          33.29973368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3033,
+        "District_ID": 18,
+        "District": "Verde District",
+        "subDistrict": "Verde Exploring",
+        "Class": "Exploring",
+        "Unit_Name": "Sedona Police Department",
+        "Unit_AltName": "",
+        "Unit_Type": "Post",
+        "Unit_Num": 7100,
+        "Unit_Class": "EP",
+        "Unit_ID": "EP7100",
+        "Address": "100 Roadrunner Dr",
+        "City": "Sedona",
+        "State": "AZ",
+        "Zipcode": "",
+        "County": "Yavapai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8137181,
+          34.86300449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3040,
+        "District_ID": 17,
+        "District": "Old Capitol District",
+        "subDistrict": "Metro Exploring",
+        "Class": "Exploring",
+        "Unit_Name": "YFD Explorer Club",
+        "Unit_AltName": "",
+        "Unit_Type": "Post",
+        "Unit_Num": 2581,
+        "Unit_Class": "EP",
+        "Unit_ID": "EP2581",
+        "Address": "22555 N Hwy 89",
+        "City": "",
+        "State": "AZ",
+        "Zipcode": "",
+        "County": "Yavapai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.7462931,
+          34.22257583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3041,
+        "District_ID": 17,
+        "District": "Old Capitol District",
+        "subDistrict": "Metro Exploring",
+        "Class": "Exploring",
+        "Unit_Name": "YFD Explorer Club",
+        "Unit_AltName": "",
+        "Unit_Type": "Post",
+        "Unit_Num": 2582,
+        "Unit_Class": "EP",
+        "Unit_ID": "EP2582",
+        "Address": "22555 N Hwy 89",
+        "City": "",
+        "State": "AZ",
+        "Zipcode": "",
+        "County": "Yavapai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.7462931,
+          34.22257583
+        ]
+      }
+    }
+  ]
+}

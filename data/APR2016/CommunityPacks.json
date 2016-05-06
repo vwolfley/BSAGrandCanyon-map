@@ -1,0 +1,6809 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 11,
+        "District_ID": 23,
+        "District": "San Tan District",
+        "subDistrict": "San Tan Community",
+        "Class": "Community",
+        "Unit_Name": "New Hope Community Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 322,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0322",
+        "Address": "1380 E Guadalupe Rd",
+        "City": "Gilbert",
+        "State": "AZ",
+        "Zipcode": 85234,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7610909,
+          33.36469014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 23,
+        "District_ID": 7,
+        "District": "Four Peaks District",
+        "subDistrict": "Four Peaks Community",
+        "Class": "Community",
+        "Unit_Name": "The Parents of Pack 344",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 344,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0344",
+        "Address": "16558 N 104th Way",
+        "City": "Scottsdale",
+        "State": "AZ",
+        "Zipcode": 85255,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8551809,
+          33.63700742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 24,
+        "District_ID": 3,
+        "District": "Firebird District",
+        "subDistrict": "Firebird Community",
+        "Class": "Community",
+        "Unit_Name": "Parents Group of Pack 394",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 394,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0394",
+        "Address": "10660 W Solano Dr",
+        "City": "Glendale",
+        "State": "AZ",
+        "Zipcode": 85307,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2890309,
+          33.52005007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 36,
+        "District_ID": 5,
+        "District": "Lake Pleasant District",
+        "subDistrict": "Lake Pleasant Community",
+        "Class": "Community",
+        "Unit_Name": "Sun City Elks Lodge 2559",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 297,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0297",
+        "Address": "10760 W Union Hills Dr",
+        "City": "Sun City",
+        "State": "AZ",
+        "Zipcode": 85373,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2920593,
+          33.65293897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 44,
+        "District_ID": 1,
+        "District": "Thunderbird District",
+        "subDistrict": "Thunderbird Community",
+        "Class": "Community",
+        "Unit_Name": "St Jerome's Catholic Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 105,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0105",
+        "Address": "10815 N 35th Ave",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": 85029,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1340904,
+          33.58463089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 50,
+        "District_ID": 17,
+        "District": "Old Capitol District",
+        "subDistrict": "Old Capitol Community",
+        "Class": "Community",
+        "Unit_Name": "American Evangelical Lutheran Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 7006,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP7006",
+        "Address": "1085 Scott Dr",
+        "City": "Prescott",
+        "State": "AZ",
+        "Zipcode": 86301,
+        "County": "Yavapai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.4746705,
+          34.56146099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 69,
+        "District_ID": 8,
+        "District": "Camelback District",
+        "subDistrict": "Camelback Community",
+        "Class": "Community",
+        "Unit_Name": "Cruz Azul Soccer in Scouting",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 4427,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP4427",
+        "Address": "1415 E Saint Charles Ave",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": 85042,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0507401,
+          33.38574003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 139,
+        "District_ID": 25,
+        "District": "Picacho Peak District",
+        "subDistrict": "Picacho Peak Community",
+        "Class": "Community",
+        "Unit_Name": "Trinity Southern Baptist Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 915,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0915",
+        "Address": "1100 E Trinity Pl",
+        "City": "Casa Grande",
+        "State": "AZ",
+        "Zipcode": 85122,
+        "County": "Pinal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7393911,
+          32.88392106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 155,
+        "District_ID": 6,
+        "District": "Mesa District",
+        "subDistrict": "Mesa Community",
+        "Class": "Community",
+        "Unit_Name": "First United Methodist Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 51,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0051",
+        "Address": "15 E 1st Ave",
+        "City": "Mesa",
+        "State": "AZ",
+        "Zipcode": 85210,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8300504,
+          33.41289011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 163,
+        "District_ID": 1,
+        "District": "Thunderbird District",
+        "subDistrict": "Thunderbird Community",
+        "Class": "Community",
+        "Unit_Name": "Lookout Mountain School PTO",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 323,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0323",
+        "Address": "15 W Coral Gables Dr",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": 85023,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0747007,
+          33.62573049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 168,
+        "District_ID": 9,
+        "District": "Coronado District",
+        "subDistrict": "Coronado Community",
+        "Class": "Community",
+        "Unit_Name": "First United Methodist Church of Safford",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 5023,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP5023",
+        "Address": "1020 S 10th Ave",
+        "City": "Safford",
+        "State": "AZ",
+        "Zipcode": 85546,
+        "County": "Graham"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.7196425,
+          32.82856579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 169,
+        "District_ID": 17,
+        "District": "Old Capitol District",
+        "subDistrict": "Old Capitol Community",
+        "Class": "Community",
+        "Unit_Name": "Sacred Heart Roman Catholic Parish",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 7013,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP7013",
+        "Address": "150 Fleury St",
+        "City": "Prescott",
+        "State": "AZ",
+        "Zipcode": 86301,
+        "County": "Yavapai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.4735805,
+          34.54348077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 175,
+        "District_ID": 20,
+        "District": "Ocotillo District",
+        "subDistrict": "Ocotillo Community",
+        "Class": "Community",
+        "Unit_Name": "Yuma Soccer",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 8806,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP8806",
+        "Address": "1020 S Avenue C",
+        "City": "Yuma",
+        "State": "AZ",
+        "Zipcode": 85364,
+        "County": "Yuma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.6674593,
+          32.70857019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 176,
+        "District_ID": 4,
+        "District": "Salt River District",
+        "subDistrict": "Salt River Community",
+        "Class": "Community",
+        "Unit_Name": "Mountain View Lutheran Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 178,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0178",
+        "Address": "11002 S 48th St",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": 85044,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9804002,
+          33.34669034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 178,
+        "District_ID": 20,
+        "District": "Ocotillo District",
+        "subDistrict": "Ocotillo Community",
+        "Class": "Community",
+        "Unit_Name": "Yuma Soccer",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 8810,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP8810",
+        "Address": "1020 S Avenue C",
+        "City": "Yuma",
+        "State": "AZ",
+        "Zipcode": 85364,
+        "County": "Yuma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.6674593,
+          32.70857019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 181,
+        "District_ID": 20,
+        "District": "Ocotillo District",
+        "subDistrict": "Ocotillo Community",
+        "Class": "Community",
+        "Unit_Name": "Yuma Soccer",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 8815,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP8815",
+        "Address": "1020 S Avenue C",
+        "City": "Yuma",
+        "State": "AZ",
+        "Zipcode": 85364,
+        "County": "Yuma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.6674593,
+          32.70857019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 209,
+        "District_ID": 20,
+        "District": "Ocotillo District",
+        "subDistrict": "Ocotillo Community",
+        "Class": "Community",
+        "Unit_Name": "Sierra Vista Presbyterian Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 8054,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP8054",
+        "Address": "150 W 28th St",
+        "City": "Yuma",
+        "State": "AZ",
+        "Zipcode": 85364,
+        "County": "Yuma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.621489,
+          32.67668077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 245,
+        "District_ID": 20,
+        "District": "Ocotillo District",
+        "subDistrict": "Ocotillo Community",
+        "Class": "Community",
+        "Unit_Name": "Gloria De Cristo Lutheran Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 8068,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP8068",
+        "Address": "11273 E 40th St",
+        "City": "Yuma",
+        "State": "AZ",
+        "Zipcode": 85367,
+        "County": "Yuma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.4403698,
+          32.65584059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 249,
+        "District_ID": 7,
+        "District": "Four Peaks District",
+        "subDistrict": "Four Peaks Community",
+        "Class": "Community",
+        "Unit_Name": "Scottsdale Christian Academy",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 641,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0641",
+        "Address": "14400 N Tatum Blvd",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": 85032,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9779804,
+          33.61708031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 269,
+        "District_ID": 7,
+        "District": "Four Peaks District",
+        "subDistrict": "Four Peaks Community",
+        "Class": "Community",
+        "Unit_Name": "BPO Elks Lodge #335",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 606,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0606",
+        "Address": "14424 N 32nd St",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": 85032,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0133105,
+          33.61814041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 303,
+        "District_ID": 6,
+        "District": "Mesa District",
+        "subDistrict": "Mesa Community",
+        "Class": "Community",
+        "Unit_Name": "St Timothy Catholic Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 555,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0555",
+        "Address": "1730 W Guadalupe Rd",
+        "City": "Mesa",
+        "State": "AZ",
+        "Zipcode": 85202,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8708504,
+          33.36412091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 318,
+        "District_ID": 4,
+        "District": "Salt River District",
+        "subDistrict": "Salt River Community",
+        "Class": "Community",
+        "Unit_Name": "Gethsemane Lutheran Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 26,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0026",
+        "Address": "1035 E Guadalupe Rd",
+        "City": "Tempe",
+        "State": "AZ",
+        "Zipcode": 85283,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9247507,
+          33.36375103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 321,
+        "District_ID": 5,
+        "District": "Lake Pleasant District",
+        "subDistrict": "Lake Pleasant Community",
+        "Class": "Community",
+        "Unit_Name": "Parents and Friends of Pack 98",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 98,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0098",
+        "Address": "16303 W Bell Rd",
+        "City": "Surprise",
+        "State": "AZ",
+        "Zipcode": 85388,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.4108284,
+          33.63828796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 338,
+        "District_ID": 7,
+        "District": "Four Peaks District",
+        "subDistrict": "Four Peaks Community",
+        "Class": "Community",
+        "Unit_Name": "Shepherd of the Desesrt Lutheran Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 648,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0648",
+        "Address": "9590 E Shea Blvd",
+        "City": "Scottsdale",
+        "State": "AZ",
+        "Zipcode": 85258,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8753546,
+          33.58322134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 361,
+        "District_ID": 4,
+        "District": "Salt River District",
+        "subDistrict": "Salt River Community",
+        "Class": "Community",
+        "Unit_Name": "Waggoner PTO",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 275,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0275",
+        "Address": "1050 E Carver Rd",
+        "City": "Tempe",
+        "State": "AZ",
+        "Zipcode": 85284,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9246504,
+          33.34191067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 380,
+        "District_ID": 24,
+        "District": "Superstition District",
+        "subDistrict": "Superstition Community",
+        "Class": "Community",
+        "Unit_Name": "Community Christian Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 34,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0034",
+        "Address": "1150 W Superstition Blvd",
+        "City": "Apache Junction",
+        "State": "AZ",
+        "Zipcode": 85120,
+        "County": "Pinal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.5585312,
+          33.42236072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 384,
+        "District_ID": 7,
+        "District": "Four Peaks District",
+        "subDistrict": "Four Peaks Community",
+        "Class": "Community",
+        "Unit_Name": "Boys and Girls Club-Mary Ellen and Robert McKee Branch",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 802,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0802",
+        "Address": "14605 N Del Cambre Ave",
+        "City": "Fountain Hills",
+        "State": "AZ",
+        "Zipcode": 85268,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7113192,
+          33.61860765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 408,
+        "District_ID": 15,
+        "District": "Arizona Route 66 District",
+        "subDistrict": "Arizona Route 66 Community",
+        "Class": "Community",
+        "Unit_Name": "Community United Methodist Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 7140,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP7140",
+        "Address": "127 W Sherman Ave",
+        "City": "Williams",
+        "State": "AZ",
+        "Zipcode": 86046,
+        "County": "Coconino"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1869906,
+          35.24882047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 415,
+        "District_ID": 4,
+        "District": "Salt River District",
+        "subDistrict": "Salt River Community",
+        "Class": "Community",
+        "Unit_Name": "PTO of Kyrene De La Esperanza Elementary",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 978,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0978",
+        "Address": "14841 S 41st Pl",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": 85044,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9945276,
+          33.31175168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 416,
+        "District_ID": 23,
+        "District": "San Tan District",
+        "subDistrict": "San Tan Community",
+        "Class": "Community",
+        "Unit_Name": "Hope Covenant Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 584,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0584",
+        "Address": "1770 S Dobson Rd",
+        "City": "Chandler",
+        "State": "AZ",
+        "Zipcode": 85286,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8763007,
+          33.27930025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 423,
+        "District_ID": 23,
+        "District": "San Tan District",
+        "subDistrict": "San Tan Community",
+        "Class": "Community",
+        "Unit_Name": "Chandler Elks Lodge #2429",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 984,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0984",
+        "Address": "1775 W Chandler Blvd",
+        "City": "Chandler",
+        "State": "AZ",
+        "Zipcode": 85224,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8728311,
+          33.30594102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 442,
+        "District_ID": 4,
+        "District": "Salt River District",
+        "subDistrict": "Salt River Community",
+        "Class": "Community",
+        "Unit_Name": "Sierra Elementary PTO",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 878,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0878",
+        "Address": "1122 E Liberty Ln",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": 85048,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0587404,
+          33.29538036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 449,
+        "District_ID": 8,
+        "District": "Camelback District",
+        "subDistrict": "Camelback Community",
+        "Class": "Community",
+        "Unit_Name": "Cesar Chavez Elem Sch Soccer and Scouting Team",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 4501,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP4501",
+        "Address": "1913 W Georgia Ave",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": 85015,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1004807,
+          33.5146908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 463,
+        "District_ID": 23,
+        "District": "San Tan District",
+        "subDistrict": "San Tan Community",
+        "Class": "Community",
+        "Unit_Name": "Jet FX LLC",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 379,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0379",
+        "Address": "1921 E Ironwood Dr",
+        "City": "Chandler",
+        "State": "AZ",
+        "Zipcode": 85225,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8083702,
+          33.32553098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 471,
+        "District_ID": 1,
+        "District": "Thunderbird District",
+        "subDistrict": "Thunderbird Community",
+        "Class": "Community",
+        "Unit_Name": "Sunrise United Methodist Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 619,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0619",
+        "Address": "19234 N 7th Ave",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": 85027,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.08283,
+          33.66104104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 489,
+        "District_ID": 23,
+        "District": "San Tan District",
+        "subDistrict": "San Tan Community",
+        "Class": "Community",
+        "Unit_Name": "Redemption Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 923,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0923",
+        "Address": "1820 W Elliot Rd",
+        "City": "Gilbert",
+        "State": "AZ",
+        "Zipcode": 85233,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8299202,
+          33.3497508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 502,
+        "District_ID": 23,
+        "District": "San Tan District",
+        "subDistrict": "San Tan Community",
+        "Class": "Community",
+        "Unit_Name": "Chandler Christian Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 285,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0285",
+        "Address": "1825 S Alma School Rd",
+        "City": "Chandler",
+        "State": "AZ",
+        "Zipcode": 85286,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8586408,
+          33.27903062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 524,
+        "District_ID": 4,
+        "District": "Salt River District",
+        "subDistrict": "Salt River Community",
+        "Class": "Community",
+        "Unit_Name": "Rover School PTA",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 378,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0378",
+        "Address": "1300 E Watson Dr",
+        "City": "Tempe",
+        "State": "AZ",
+        "Zipcode": 85283,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9178933,
+          33.369074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 556,
+        "District_ID": 7,
+        "District": "Four Peaks District",
+        "subDistrict": "Four Peaks Community",
+        "Class": "Community",
+        "Unit_Name": "Congregational Church of the Valley",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 848,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0848",
+        "Address": "12001 E Shea Blvd",
+        "City": "Scottsdale",
+        "State": "AZ",
+        "Zipcode": 85259,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8214209,
+          33.58235052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 569,
+        "District_ID": 5,
+        "District": "Lake Pleasant District",
+        "subDistrict": "Lake Pleasant Community",
+        "Class": "Community",
+        "Unit_Name": "Imagine Schools at Rosefield",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 194,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0194",
+        "Address": "12050 N Bullard Ave",
+        "City": "Surprise",
+        "State": "AZ",
+        "Zipcode": 85379,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.376541,
+          33.59336058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 605,
+        "District_ID": 4,
+        "District": "Salt River District",
+        "subDistrict": "Salt River Community",
+        "Class": "Community",
+        "Unit_Name": "Kyrene Monte Vista PTO",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 78,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0078",
+        "Address": "15221 S Ray Rd",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": 85048,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0273707,
+          33.30903029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 610,
+        "District_ID": 23,
+        "District": "San Tan District",
+        "subDistrict": "San Tan Community",
+        "Class": "Community",
+        "Unit_Name": "Val Vista Academy",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 330,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0330",
+        "Address": "4120 S Val Vista Dr",
+        "City": "Gilbert",
+        "State": "AZ",
+        "Zipcode": 85296,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7563862,
+          33.27551363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 613,
+        "District_ID": 15,
+        "District": "Arizona Route 66 District",
+        "subDistrict": "Arizona Route 66 Community",
+        "Class": "Community",
+        "Unit_Name": "Flagstaff Christian Fellowship",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 7112,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP7112",
+        "Address": "123 S Beaver St",
+        "City": "Flagstaff",
+        "State": "AZ",
+        "Zipcode": 86001,
+        "County": "Coconino"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6512703,
+          35.19531078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 618,
+        "District_ID": 6,
+        "District": "Mesa District",
+        "subDistrict": "Mesa Community",
+        "Class": "Community",
+        "Unit_Name": "Love of Christ Lutheran Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 301,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0301",
+        "Address": "1525 N Power Rd",
+        "City": "Mesa",
+        "State": "AZ",
+        "Zipcode": 85207,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6840983,
+          33.44355435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 639,
+        "District_ID": 7,
+        "District": "Four Peaks District",
+        "subDistrict": "Four Peaks Community",
+        "Class": "Community",
+        "Unit_Name": "All Saints Lutheran Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 242,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0242",
+        "Address": "15649 N 7th St",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": 85022,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0654905,
+          33.62892001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 648,
+        "District_ID": 10,
+        "District": "Gila District",
+        "subDistrict": "Gila Community",
+        "Class": "Community",
+        "Unit_Name": "Living Waters Community Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 5777,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP5777",
+        "Address": "125 E Haskins Rd",
+        "City": "Globe",
+        "State": "AZ",
+        "Zipcode": 85501,
+        "County": "Gila"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.790412,
+          33.40299035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 689,
+        "District_ID": 1,
+        "District": "Thunderbird District",
+        "subDistrict": "Thunderbird Community",
+        "Class": "Community",
+        "Unit_Name": "St James Catholic Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 824,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0824",
+        "Address": "19640 N 35th Ave",
+        "City": "Glendale",
+        "State": "AZ",
+        "Zipcode": 85027,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1346009,
+          33.6646811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 748,
+        "District_ID": 8,
+        "District": "Camelback District",
+        "subDistrict": "Camelback Community",
+        "Class": "Community",
+        "Unit_Name": "Tanner Chapel AME Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 208,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0208",
+        "Address": "20 S 8th St",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": 85034,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0637123,
+          33.44801419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 773,
+        "District_ID": 7,
+        "District": "Four Peaks District",
+        "subDistrict": "Four Peaks Community",
+        "Class": "Community",
+        "Unit_Name": "Paradise Shadows",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 650,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0650",
+        "Address": "16035 N 27th St",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": 85032,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0242014,
+          33.6323998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 774,
+        "District_ID": 23,
+        "District": "San Tan District",
+        "subDistrict": "San Tan Community",
+        "Class": "Community",
+        "Unit_Name": "St Mary Basha Catholic School",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 132,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0132",
+        "Address": "200 W Galveston St",
+        "City": "Chandler",
+        "State": "AZ",
+        "Zipcode": 85225,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8464691,
+          33.31385602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 777,
+        "District_ID": 17,
+        "District": "Old Capitol District",
+        "subDistrict": "Old Capitol Community",
+        "Class": "Community",
+        "Unit_Name": "St Lukes Episcopal Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 7010,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP7010",
+        "Address": "2000 Shepherds Ln",
+        "City": "Prescott",
+        "State": "AZ",
+        "Zipcode": 86301,
+        "County": "Yavapai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.4322608,
+          34.65003002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 784,
+        "District_ID": 6,
+        "District": "Mesa District",
+        "subDistrict": "Mesa Community",
+        "Class": "Community",
+        "Unit_Name": "First Presbyterian Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 257,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0257",
+        "Address": "161 N Mesa Dr",
+        "City": "Mesa",
+        "State": "AZ",
+        "Zipcode": 85201,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.82292,
+          33.41920001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 812,
+        "District_ID": 4,
+        "District": "Salt River District",
+        "subDistrict": "Salt River Community",
+        "Class": "Community",
+        "Unit_Name": "St Benedict Roman Catholic Parish Phoenix",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 77,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0077",
+        "Address": "16223 S 48th St",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": 85048,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9796377,
+          33.2996842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 822,
+        "District_ID": 7,
+        "District": "Four Peaks District",
+        "subDistrict": "Four Peaks Community",
+        "Class": "Community",
+        "Unit_Name": "St Bernadette's Catholic Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 818,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0818",
+        "Address": "16245 N 60th St",
+        "City": "Scottsdale",
+        "State": "AZ",
+        "Zipcode": 85254,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9515908,
+          33.63502019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 826,
+        "District_ID": 3,
+        "District": "Firebird District",
+        "subDistrict": "Firebird Community",
+        "Class": "Community",
+        "Unit_Name": "Parents of Pack 990",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 990,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0990",
+        "Address": "16521 W Lilac St",
+        "City": "Goodyear",
+        "State": "AZ",
+        "Zipcode": 85395,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.414388,
+          33.44226175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 828,
+        "District_ID": 5,
+        "District": "Lake Pleasant District",
+        "subDistrict": "Lake Pleasant Community",
+        "Class": "Community",
+        "Unit_Name": "New Song United Methodist Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 736,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0736",
+        "Address": "16303 W Bell Rd",
+        "City": "Surprise",
+        "State": "AZ",
+        "Zipcode": 85374,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.4108284,
+          33.63828796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 831,
+        "District_ID": 8,
+        "District": "Camelback District",
+        "subDistrict": "Camelback Community",
+        "Class": "Community",
+        "Unit_Name": "Loma Linda Elem Sch Soccer and Scouting Team",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 4413,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP4413",
+        "Address": "2002 E Clarendon Ave",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": 85016,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0372503,
+          33.49115083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 833,
+        "District_ID": 1,
+        "District": "Thunderbird District",
+        "subDistrict": "Thunderbird Community",
+        "Class": "Community",
+        "Unit_Name": "Northwest Christian School",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 320,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0320",
+        "Address": "16401 N 43rd Ave",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": 85053,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1513213,
+          33.63527639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 845,
+        "District_ID": 1,
+        "District": "Thunderbird District",
+        "subDistrict": "Thunderbird Community",
+        "Class": "Community",
+        "Unit_Name": "Cross Winds Presbyterian Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 918,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0918",
+        "Address": "20125 N 15th Ave",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": 85027,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0914407,
+          33.66910047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 847,
+        "District_ID": 4,
+        "District": "Salt River District",
+        "subDistrict": "Salt River Community",
+        "Class": "Community",
+        "Unit_Name": "Kyrene De Los Lagos PTA",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 478,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0478",
+        "Address": "17001 S 34th Way",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": 85048,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0088408,
+          33.29260105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 848,
+        "District_ID": 8,
+        "District": "Camelback District",
+        "subDistrict": "Camelback Community",
+        "Class": "Community",
+        "Unit_Name": "Papago Elem Sch Soccer and Scouting Team",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 4411,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP4411",
+        "Address": "2013 N 36th St",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": 85008,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0042305,
+          33.47027032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 851,
+        "District_ID": 15,
+        "District": "Arizona Route 66 District",
+        "subDistrict": "Arizona Route 66 Community",
+        "Class": "Community",
+        "Unit_Name": "American Legion Post 3",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 7136,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP7136",
+        "Address": "204 W Birch Ave",
+        "City": "Flagstaff",
+        "State": "AZ",
+        "Zipcode": 86001,
+        "County": "Coconino"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.65089,
+          35.20021028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 865,
+        "District_ID": 8,
+        "District": "Camelback District",
+        "subDistrict": "Camelback Community",
+        "Class": "Community",
+        "Unit_Name": "C J Jorgensen Elementary",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 4944,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP4944",
+        "Address": "1701 W Roeser Rd",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": 85041,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0956503,
+          33.39955014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 872,
+        "District_ID": 6,
+        "District": "Mesa District",
+        "subDistrict": "Mesa Community",
+        "Class": "Community",
+        "Unit_Name": "Group of Interested Citizens",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 456,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0456",
+        "Address": "1409 W Colt Rd",
+        "City": "Chandler",
+        "State": "AZ",
+        "Zipcode": 85224,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8654252,
+          33.33691364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 875,
+        "District_ID": 5,
+        "District": "Lake Pleasant District",
+        "subDistrict": "Lake Pleasant Community",
+        "Class": "Community",
+        "Unit_Name": "St Clare of Assisi Catholic Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 400,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0400",
+        "Address": "17111 W Bell Rd",
+        "City": "Surprise",
+        "State": "AZ",
+        "Zipcode": 85388,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.4272403,
+          33.6387605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 881,
+        "District_ID": 24,
+        "District": "Superstition District",
+        "subDistrict": "Superstition Community",
+        "Class": "Community",
+        "Unit_Name": "Our Lady of Guadalupe Catholic Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 738,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0738",
+        "Address": "20615 E Ocotillo Rd",
+        "City": "Queen Creek",
+        "State": "AZ",
+        "Zipcode": 85142,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.638821,
+          33.24870024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 935,
+        "District_ID": 4,
+        "District": "Salt River District",
+        "subDistrict": "Salt River Community",
+        "Class": "Community",
+        "Unit_Name": "Colton Commercial & Parents of Tavan Elementary",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 241,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0241",
+        "Address": "2206 S Priest Dr",
+        "City": "Tempe",
+        "State": "AZ",
+        "Zipcode": 85282,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9608011,
+          33.4053868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1005,
+        "District_ID": 8,
+        "District": "Camelback District",
+        "subDistrict": "Camelback Community",
+        "Class": "Community",
+        "Unit_Name": "St Gregory's Catholic Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 43,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0043",
+        "Address": "3424 N 18th Ave",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": 85015,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0978341,
+          33.48820679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1022,
+        "District_ID": 1,
+        "District": "Thunderbird District",
+        "subDistrict": "Thunderbird Community",
+        "Class": "Community",
+        "Unit_Name": "Knights of Columbus",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 432,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0432",
+        "Address": "42410 N Crosswater Way",
+        "City": "Anthem",
+        "State": "AZ",
+        "Zipcode": 85086,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.105924,
+          33.86981788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1046,
+        "District_ID": 8,
+        "District": "Camelback District",
+        "subDistrict": "Camelback Community",
+        "Class": "Community",
+        "Unit_Name": "Somali American United Council",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 133,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0133",
+        "Address": "2425 E Thomas Rd # 1011",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": 85016,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0290403,
+          33.48033089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1053,
+        "District_ID": 15,
+        "District": "Arizona Route 66 District",
+        "subDistrict": "Arizona Route 66 Community",
+        "Class": "Community",
+        "Unit_Name": "San Francisco de Asis Parish",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 7036,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP7036",
+        "Address": "1600 E Route 66",
+        "City": "Flagstaff",
+        "State": "AZ",
+        "Zipcode": 86004,
+        "County": "Coconino"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.627272,
+          35.20257343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1063,
+        "District_ID": 24,
+        "District": "Superstition District",
+        "subDistrict": "Superstition Community",
+        "Class": "Community",
+        "Unit_Name": "Saving Grace Lutheran Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 325,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0325",
+        "Address": "20164 S Sossaman Rd",
+        "City": "Queen Creek",
+        "State": "AZ",
+        "Zipcode": 85142,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6699884,
+          33.26568238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1076,
+        "District_ID": 4,
+        "District": "Salt River District",
+        "subDistrict": "Salt River Community",
+        "Class": "Community",
+        "Unit_Name": "King of Glory Lutheran Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 577,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0577",
+        "Address": "2085 E Southern Ave",
+        "City": "Tempe",
+        "State": "AZ",
+        "Zipcode": 85282,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8969611,
+          33.39300057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1077,
+        "District_ID": 1,
+        "District": "Thunderbird District",
+        "subDistrict": "Thunderbird Community",
+        "Class": "Community",
+        "Unit_Name": "Atonement Lutheran Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 563,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0563",
+        "Address": "4001 W Beardsley Rd",
+        "City": "Glendale",
+        "State": "AZ",
+        "Zipcode": 85308,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1460004,
+          33.66918076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1083,
+        "District_ID": 14,
+        "District": "White Mountain District",
+        "subDistrict": "White Mountain Community",
+        "Class": "Community",
+        "Unit_Name": "Pinetop-Lakeside Parents",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 7063,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP7063",
+        "Address": "2700 Woodland Hills Ln",
+        "City": "Pinetop",
+        "State": "AZ",
+        "Zipcode": 85935,
+        "County": "Navajo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.9503909,
+          34.115651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1084,
+        "District_ID": 19,
+        "District": "Zane Grey District",
+        "subDistrict": "Zane Grey Community",
+        "Class": "Community",
+        "Unit_Name": "The Shelby School",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 7787,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP7787",
+        "Address": "249 W Standage Dr",
+        "City": "Payson",
+        "State": "AZ",
+        "Zipcode": 85541,
+        "County": "Gila"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.1322382,
+          34.31616137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1091,
+        "District_ID": 25,
+        "District": "Picacho Peak District",
+        "subDistrict": "Picacho Peak Community",
+        "Class": "Community",
+        "Unit_Name": "Maricopa Lutheran Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 389,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0389",
+        "Address": "20987 N John Wayne Pkwy",
+        "City": "Maricopa",
+        "State": "AZ",
+        "Zipcode": 85138,
+        "County": "Pinal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0441533,
+          33.06900394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1110,
+        "District_ID": 6,
+        "District": "Mesa District",
+        "subDistrict": "Mesa Community",
+        "Class": "Community",
+        "Unit_Name": "Las Sendas Parent-Teacher Organization",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 371,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0371",
+        "Address": "3120 N Red Mountain",
+        "City": "Mesa",
+        "State": "AZ",
+        "Zipcode": 85207,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6772105,
+          33.47363037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1129,
+        "District_ID": 1,
+        "District": "Thunderbird District",
+        "subDistrict": "Thunderbird Community",
+        "Class": "Community",
+        "Unit_Name": "Community Church of Joy",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 365,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0365",
+        "Address": "21000 N 75th Ave",
+        "City": "Glendale",
+        "State": "AZ",
+        "Zipcode": 85382,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2205102,
+          33.67390512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1131,
+        "District_ID": 1,
+        "District": "Thunderbird District",
+        "subDistrict": "Thunderbird Community",
+        "Class": "Community",
+        "Unit_Name": "Ridgeline Academy",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 536,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0536",
+        "Address": "33625 N Valley Pkwy",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": 85085,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1207824,
+          33.79011751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1140,
+        "District_ID": 4,
+        "District": "Salt River District",
+        "subDistrict": "Salt River Community",
+        "Class": "Community",
+        "Unit_Name": "St Andrew The Apostle Catholic Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 679,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0679",
+        "Address": "3450 W Ray Rd",
+        "City": "Chandler",
+        "State": "AZ",
+        "Zipcode": 85226,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9015011,
+          33.32027081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1159,
+        "District_ID": 7,
+        "District": "Four Peaks District",
+        "subDistrict": "Four Peaks Community",
+        "Class": "Community",
+        "Unit_Name": "Desert Hills Presbyterian Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 603,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0603",
+        "Address": "34605 N Scottsdale Rd",
+        "City": "Scottsdale",
+        "State": "AZ",
+        "Zipcode": 85377,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9225402,
+          33.82493042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1162,
+        "District_ID": 8,
+        "District": "Camelback District",
+        "subDistrict": "Camelback Community",
+        "Class": "Community",
+        "Unit_Name": "Ed Pastor School",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 4425,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP4425",
+        "Address": "2101 W Alta Vista Rd",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": 85041,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1039202,
+          33.38859078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1166,
+        "District_ID": 1,
+        "District": "Thunderbird District",
+        "subDistrict": "Thunderbird Community",
+        "Class": "Community",
+        "Unit_Name": "Orangewood Christian Reform Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 421,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0421",
+        "Address": "7702 N 39th Ave",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": 85051,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1438301,
+          33.55032249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1170,
+        "District_ID": 4,
+        "District": "Salt River District",
+        "subDistrict": "Salt River Community",
+        "Class": "Community",
+        "Unit_Name": "Our Lady of Mount Carmel Catholic Parish Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 71,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0071",
+        "Address": "2121 S Rural Rd",
+        "City": "Tempe",
+        "State": "AZ",
+        "Zipcode": 85282,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9263005,
+          33.40393112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1173,
+        "District_ID": 8,
+        "District": "Camelback District",
+        "subDistrict": "Camelback Community",
+        "Class": "Community",
+        "Unit_Name": "Larry C Kennedy Elem Sch Soccer and Scouting Team",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 4409,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP4409",
+        "Address": "2702 E Osborn Rd",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": 85016,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0227005,
+          33.48769052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1183,
+        "District_ID": 3,
+        "District": "Firebird District",
+        "subDistrict": "Thunderbird Community",
+        "Class": "Community",
+        "Unit_Name": "Sisters of St Benedict of Maricopa Arizona Inc",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 513,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0513",
+        "Address": "8502 W Pinchot Ave",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": 85053,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2426254,
+          33.48300619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1197,
+        "District_ID": 7,
+        "District": "Four Peaks District",
+        "subDistrict": "Four Peaks Community",
+        "Class": "Community",
+        "Unit_Name": "Pinnacle Presbyterian Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 131,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0131",
+        "Address": "25150 N Pima Rd",
+        "City": "Scottsdale",
+        "State": "AZ",
+        "Zipcode": 85255,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8906604,
+          33.71455072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1238,
+        "District_ID": 15,
+        "District": "Arizona Route 66 District",
+        "subDistrict": "Arizona Route 66 Community",
+        "Class": "Community",
+        "Unit_Name": "Demiguel Elementary School PTO",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 7210,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP7210",
+        "Address": "3500 S Gillenwater Dr",
+        "City": "Flagstaff",
+        "State": "AZ",
+        "Zipcode": 86001,
+        "County": "Coconino"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.680521,
+          35.168791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1307,
+        "District_ID": 15,
+        "District": "Arizona Route 66 District",
+        "subDistrict": "Arizona Route 66 Community",
+        "Class": "Community",
+        "Unit_Name": "Winslow Future Builders",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 7166,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP7166",
+        "Address": "409 W Fourth St",
+        "City": "Winslow",
+        "State": "AZ",
+        "Zipcode": 86047,
+        "County": "Navajo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.7006604,
+          35.02654059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1309,
+        "District_ID": 7,
+        "District": "Four Peaks District",
+        "subDistrict": "Four Peaks Community",
+        "Class": "Community",
+        "Unit_Name": "St Gabriel the Archangel Catholic Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 15,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0015",
+        "Address": "32648 N Cave Creek Rd",
+        "City": "Cave Creek",
+        "State": "AZ",
+        "Zipcode": 85331,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9744302,
+          33.7820906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1310,
+        "District_ID": 8,
+        "District": "Camelback District",
+        "subDistrict": "Camelback Community",
+        "Class": "Community",
+        "Unit_Name": "Boys and Girls Clubs of Greater Scottsdale",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 804,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0804",
+        "Address": "2311 N Miller Rd",
+        "City": "Scottsdale",
+        "State": "AZ",
+        "Zipcode": 85257,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9175201,
+          33.47305077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1320,
+        "District_ID": 8,
+        "District": "Camelback District",
+        "subDistrict": "Camelback Community",
+        "Class": "Community",
+        "Unit_Name": "St Thomas the Apostle Catholic Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 340,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0340",
+        "Address": "2312 E Campbell Ave",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": 85016,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0318404,
+          33.50207101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1327,
+        "District_ID": 1,
+        "District": "Thunderbird District",
+        "subDistrict": "Thunderbird Community",
+        "Class": "Community",
+        "Unit_Name": "St Paul's Roman Catholic Parish Phoenix",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 916,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0916",
+        "Address": "330 W Coral Gables Dr",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": 85023,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0785504,
+          33.6257109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1331,
+        "District_ID": 6,
+        "District": "Mesa District",
+        "subDistrict": "Mesa Community",
+        "Class": "Community",
+        "Unit_Name": "Trinity Baptist Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 451,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0451",
+        "Address": "2130 E University Dr",
+        "City": "Mesa",
+        "State": "AZ",
+        "Zipcode": 85213,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7855907,
+          33.4226511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1334,
+        "District_ID": 8,
+        "District": "Camelback District",
+        "subDistrict": "Camelback Community",
+        "Class": "Community",
+        "Unit_Name": "ATS Parent Teacher Organization",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 926,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0926",
+        "Address": "3736 W Osborn Rd",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": 85019,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1395004,
+          33.48766056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1344,
+        "District_ID": 7,
+        "District": "Four Peaks District",
+        "subDistrict": "Four Peaks Community",
+        "Class": "Community",
+        "Unit_Name": "Cave Creek Parents Association Inc",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 331,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0331",
+        "Address": "6450 E Cave Creek Rd",
+        "City": "Cave Creek",
+        "State": "AZ",
+        "Zipcode": 85331,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9413562,
+          33.83291092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1346,
+        "District_ID": 9,
+        "District": "Coronado District",
+        "subDistrict": "Coronado Community",
+        "Class": "Community",
+        "Unit_Name": "New Life City Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 5123,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP5123",
+        "Address": "3754 US 191",
+        "City": "Safford",
+        "State": "AZ",
+        "Zipcode": 85546,
+        "County": "Graham"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.7125603,
+          32.83431004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1348,
+        "District_ID": 8,
+        "District": "Camelback District",
+        "subDistrict": "Camelback Community",
+        "Class": "Community",
+        "Unit_Name": "Price Elementary School",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 8003,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP8003",
+        "Address": "2969 N Greenfield Rd",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": 85016,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0382205,
+          33.48275069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1356,
+        "District_ID": 5,
+        "District": "Lake Pleasant District",
+        "subDistrict": "Lake Pleasant Community",
+        "Class": "Community",
+        "Unit_Name": "Friends of Pack 93",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 93,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0093",
+        "Address": "27921 N 239th Ave",
+        "City": "Wittmann",
+        "State": "AZ",
+        "Zipcode": 85361,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.5770301,
+          33.73615026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1357,
+        "District_ID": 23,
+        "District": "San Tan District",
+        "subDistrict": "San Tan Community",
+        "Class": "Community",
+        "Unit_Name": "Gilbert United Methodist Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 88,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0088",
+        "Address": "331 S Cooper Rd",
+        "City": "Gilbert",
+        "State": "AZ",
+        "Zipcode": 85233,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8069909,
+          33.34314016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1362,
+        "District_ID": 6,
+        "District": "Mesa District",
+        "subDistrict": "Mesa Community",
+        "Class": "Community",
+        "Unit_Name": "St Matthew United Methodist Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 853,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0853",
+        "Address": "2540 W Baseline Rd",
+        "City": "Mesa",
+        "State": "AZ",
+        "Zipcode": 85202,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8859211,
+          33.3785809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1365,
+        "District_ID": 1,
+        "District": "Thunderbird District",
+        "subDistrict": "Thunderbird Community",
+        "Class": "Community",
+        "Unit_Name": "Adams Traditional Academy",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 531,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0531",
+        "Address": "2323 W Parkside Ln",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": 85027,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1102601,
+          33.69560029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1372,
+        "District_ID": 7,
+        "District": "Four Peaks District",
+        "subDistrict": "Thunderbird Community",
+        "Class": "Community",
+        "Unit_Name": "Concerned Parents of Pack 221",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 221,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0221",
+        "Address": "719 E Potter Dr",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": 85053,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0646011,
+          33.6740183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1381,
+        "District_ID": 4,
+        "District": "Salt River District",
+        "subDistrict": "Salt River Community",
+        "Class": "Community",
+        "Unit_Name": "Corpus Christi Catholic Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 278,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0278",
+        "Address": "3550 E Knox Rd",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": 85044,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0067609,
+          33.32697018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1388,
+        "District_ID": 5,
+        "District": "Lake Pleasant District",
+        "subDistrict": "Lake Pleasant Community",
+        "Class": "Community",
+        "Unit_Name": "Park at Vistancia",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 129,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0129",
+        "Address": "29701 N Sunrise Pt",
+        "City": "Peoria",
+        "State": "AZ",
+        "Zipcode": 85383,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3301305,
+          33.7519008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1396,
+        "District_ID": 20,
+        "District": "Ocotillo District",
+        "subDistrict": "Ocotillo Community",
+        "Class": "Community",
+        "Unit_Name": "First United Methodist Church of Yuma",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 8055,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP8055",
+        "Address": "298 W 3rd St",
+        "City": "Yuma",
+        "State": "AZ",
+        "Zipcode": 85364,
+        "County": "Yuma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.6232497,
+          32.72153106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1404,
+        "District_ID": 8,
+        "District": "Camelback District",
+        "subDistrict": "Camelback Community",
+        "Class": "Community",
+        "Unit_Name": "Serrano Village",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 4420,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP4420",
+        "Address": "2828 W Camelback Rd",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": 85017,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1197111,
+          33.50947096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1417,
+        "District_ID": 8,
+        "District": "Camelback District",
+        "subDistrict": "Camelback Community",
+        "Class": "Community",
+        "Unit_Name": "Serrano Village",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 4423,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP4423",
+        "Address": "2828 W Camelback Rd",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": 85017,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1197111,
+          33.50947096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1441,
+        "District_ID": 20,
+        "District": "Ocotillo District",
+        "subDistrict": "Ocotillo Community",
+        "Class": "Community",
+        "Unit_Name": "Christ Lutheran Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 8051,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP8051",
+        "Address": "2555 S Engler Ave",
+        "City": "Yuma",
+        "State": "AZ",
+        "Zipcode": 85365,
+        "County": "Yuma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.5944392,
+          32.68141089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1471,
+        "District_ID": 23,
+        "District": "San Tan District",
+        "subDistrict": "San Tan Community",
+        "Class": "Community",
+        "Unit_Name": "Christ's Greenfield Lutheran Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 282,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0282",
+        "Address": "425 N Greenfield Rd",
+        "City": "Gilbert",
+        "State": "AZ",
+        "Zipcode": 85234,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7386605,
+          33.35827077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1563,
+        "District_ID": 8,
+        "District": "Camelback District",
+        "subDistrict": "Camelback Community",
+        "Class": "Community",
+        "Unit_Name": "W T Machan Elem Sch Soccer and Scouting Team",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 4407,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP4407",
+        "Address": "2140 E Virginia Ave",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": 85006,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0353606,
+          33.47665051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1585,
+        "District_ID": 7,
+        "District": "Four Peaks District",
+        "subDistrict": "Four Peaks Community",
+        "Class": "Community",
+        "Unit_Name": "St Joseph's Catholic Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 416,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0416",
+        "Address": "11001 N 40th St",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": 85032,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9947434,
+          33.58702969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1614,
+        "District_ID": 24,
+        "District": "Superstition District",
+        "subDistrict": "San Tan Community",
+        "Class": "Community",
+        "Unit_Name": "Central Christian Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 125,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0125",
+        "Address": "18439 E Lark Dr",
+        "City": "Gilbert",
+        "State": "AZ",
+        "Zipcode": 85298,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6850182,
+          33.27212022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1621,
+        "District_ID": 4,
+        "District": "Salt River District",
+        "subDistrict": "Salt River Community",
+        "Class": "Community",
+        "Unit_Name": "Esperanza Lutheran Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 879,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0879",
+        "Address": "2601 E Thunderhill Pl",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": 85048,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0283615,
+          33.3089959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1672,
+        "District_ID": 14,
+        "District": "White Mountain District",
+        "subDistrict": "White Mountain Community",
+        "Class": "Community",
+        "Unit_Name": "Veterans of Foreign Wars Post 9907",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 7733,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP7733",
+        "Address": "381 N Central Ave",
+        "City": "Show Low",
+        "State": "AZ",
+        "Zipcode": 85901,
+        "County": "Navajo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.0426207,
+          34.25294084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1675,
+        "District_ID": 1,
+        "District": "Thunderbird District",
+        "subDistrict": "Thunderbird Community",
+        "Class": "Community",
+        "Unit_Name": "North Valley Residents for Cub Scouting",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 431,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0431",
+        "Address": "49024 N 25th Ave",
+        "City": "Anthem",
+        "State": "AZ",
+        "Zipcode": 85086,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1136599,
+          33.93057539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1706,
+        "District_ID": 17,
+        "District": "Old Capitol District",
+        "subDistrict": "Old Capitol Community",
+        "Class": "Community",
+        "Unit_Name": "First Congregational Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 7001,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP7001",
+        "Address": "216 E Gurley St",
+        "City": "Prescott",
+        "State": "AZ",
+        "Zipcode": 86301,
+        "County": "Yavapai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.4663004,
+          34.54185029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1715,
+        "District_ID": 15,
+        "District": "Arizona Route 66 District",
+        "subDistrict": "Arizona Route 66 Community",
+        "Class": "Community",
+        "Unit_Name": "Trinity Heights United Methodist Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 7098,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP7098",
+        "Address": "3600 N 4th St",
+        "City": "Flagstaff",
+        "State": "AZ",
+        "Zipcode": 86004,
+        "County": "Coconino"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6135204,
+          35.22350022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1751,
+        "District_ID": 8,
+        "District": "Camelback District",
+        "subDistrict": "Camelback Community",
+        "Class": "Community",
+        "Unit_Name": "The Friends of Pack 324",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 324,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0324",
+        "Address": "2902 E Highland Ave",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": 85016,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0192908,
+          33.50559008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1760,
+        "District_ID": 16,
+        "District": "Lake Powell District",
+        "subDistrict": "Lake Powell Community",
+        "Class": "Community",
+        "Unit_Name": "Page Community United Methodist Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 7911,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP7911",
+        "Address": "291 S Lake Powell Blvd",
+        "City": "Marble Canyon",
+        "State": "AZ",
+        "Zipcode": 86040,
+        "County": "Coconino"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.4526306,
+          36.91286025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1774,
+        "District_ID": 8,
+        "District": "Camelback District",
+        "subDistrict": "Camelback Community",
+        "Class": "Community",
+        "Unit_Name": "Excelencia Soccer and Scouting Team",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 4403,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP4403",
+        "Address": "2181 E McDowell Rd",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": 85006,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0349552,
+          33.46575142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1776,
+        "District_ID": 18,
+        "District": "Verde District",
+        "subDistrict": "Verde Community",
+        "Class": "Community",
+        "Unit_Name": "Rock of Ages Lutheran Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 7026,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP7026",
+        "Address": "390 Dry Creek Rd",
+        "City": "Sedona",
+        "State": "AZ",
+        "Zipcode": 86336,
+        "County": "Yavapai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8203952,
+          34.86757005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1777,
+        "District_ID": 4,
+        "District": "Salt River District",
+        "subDistrict": "Salt River Community",
+        "Class": "Community",
+        "Unit_Name": "Team AZ Sports NFL Yet",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 4422,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP4422",
+        "Address": "4302 E Kiowa St",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": 85044,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.99072,
+          33.34289011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1866,
+        "District_ID": 23,
+        "District": "San Tan District",
+        "subDistrict": "San Tan Community",
+        "Class": "Community",
+        "Unit_Name": "Gilbert Presbyterian Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 382,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0382",
+        "Address": "235 E Guadalupe Rd",
+        "City": "Gilbert",
+        "State": "AZ",
+        "Zipcode": 85234,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7860101,
+          33.36447005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1946,
+        "District_ID": 24,
+        "District": "Superstition District",
+        "subDistrict": "Superstition Community",
+        "Class": "Community",
+        "Unit_Name": "Hill Family Dentistry",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 184,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0184",
+        "Address": "36359 N Gantzel Rd Ste 101",
+        "City": "San Tan Valley",
+        "State": "AZ",
+        "Zipcode": 85140,
+        "County": "Pinal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.5653673,
+          33.20778102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1961,
+        "District_ID": 1,
+        "District": "Thunderbird District",
+        "subDistrict": "Thunderbird Community",
+        "Class": "Community",
+        "Unit_Name": "St Andrew Evan Lutheran Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 124,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0124",
+        "Address": "3101 W Cholla St",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": 85029,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1260809,
+          33.58982077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1964,
+        "District_ID": 15,
+        "District": "Arizona Route 66 District",
+        "subDistrict": "Arizona Route 66 Community",
+        "Class": "Community",
+        "Unit_Name": "Highlands Fire Fighter Union",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 7201,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP7201",
+        "Address": "4468 Canyon Loop",
+        "City": "Flagstaff",
+        "State": "AZ",
+        "Zipcode": 86001,
+        "County": "Coconino"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6910609,
+          35.08920055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2000,
+        "District_ID": 19,
+        "District": "Zane Grey District",
+        "subDistrict": "Zane Grey Community",
+        "Class": "Community",
+        "Unit_Name": "Parents of Pack 7542",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 7542,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP7542",
+        "Address": "49831 N AZ Highway 188",
+        "City": "Payson",
+        "State": "AZ",
+        "Zipcode": 85541,
+        "County": "Gila"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.3406808,
+          34.07679118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2009,
+        "District_ID": 4,
+        "District": "Salt River District",
+        "subDistrict": "Salt River Community",
+        "Class": "Community",
+        "Unit_Name": "Mariposa Parent Teacher Organization",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 472,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0472",
+        "Address": "50 E Knox Rd",
+        "City": "Tempe",
+        "State": "AZ",
+        "Zipcode": 85284,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9362701,
+          33.32601032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2016,
+        "District_ID": 20,
+        "District": "Ocotillo District",
+        "subDistrict": "Ocotillo Community",
+        "Class": "Community",
+        "Unit_Name": "Knights of Columbus Council",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 8092,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP8092",
+        "Address": "700 W 18th St",
+        "City": "Yuma",
+        "State": "AZ",
+        "Zipcode": 85364,
+        "County": "Yuma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.6279752,
+          32.69492978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2021,
+        "District_ID": 5,
+        "District": "Lake Pleasant District",
+        "subDistrict": "Lake Pleasant Community",
+        "Class": "Community",
+        "Unit_Name": "Glendale Christian Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 276,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0276",
+        "Address": "9661 N 59th Ave",
+        "City": "Glendale",
+        "State": "AZ",
+        "Zipcode": 85302,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1861987,
+          33.57252933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2044,
+        "District_ID": 25,
+        "District": "Picacho Peak District",
+        "subDistrict": "Picacho Peak Community",
+        "Class": "Community",
+        "Unit_Name": "First Presbyterian Church of Casa Grande",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 919,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0919",
+        "Address": "702 E Cottonwood Ln",
+        "City": "Casa Grande",
+        "State": "AZ",
+        "Zipcode": 85122,
+        "County": "Pinal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7436903,
+          32.89414065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2064,
+        "District_ID": 1,
+        "District": "Thunderbird District",
+        "subDistrict": "Thunderbird Community",
+        "Class": "Community",
+        "Unit_Name": "Copper Creek PTA",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 436,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0436",
+        "Address": "7071 W Hillcrest Blvd",
+        "City": "Glendale",
+        "State": "AZ",
+        "Zipcode": 85310,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2111157,
+          33.68546154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2067,
+        "District_ID": 1,
+        "District": "Thunderbird District",
+        "subDistrict": "Thunderbird Community",
+        "Class": "Community",
+        "Unit_Name": "Sts Simon & Jude Parish Council",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 148,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0148",
+        "Address": "6351 N 27th Ave",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": 85017,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1169111,
+          33.53032036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2070,
+        "District_ID": 24,
+        "District": "Superstition District",
+        "subDistrict": "Superstition Community",
+        "Class": "Community",
+        "Unit_Name": "Gold Canyon Community Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 638,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0638",
+        "Address": "5810 S Alameda Rd",
+        "City": "Gold Canyon",
+        "State": "AZ",
+        "Zipcode": 85118,
+        "County": "Pinal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.4378803,
+          33.36108004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2075,
+        "District_ID": 8,
+        "District": "Camelback District",
+        "subDistrict": "Camelback Community",
+        "Class": "Community",
+        "Unit_Name": "Kiwanis Club of Phoenix",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 329,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0329",
+        "Address": "5820 N Central Ave",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": 85013,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0737108,
+          33.52265077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2082,
+        "District_ID": 1,
+        "District": "Thunderbird District",
+        "subDistrict": "Thunderbird Community",
+        "Class": "Community",
+        "Unit_Name": "Phoenix Friends Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 747,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0747",
+        "Address": "8055 N 39th Ave",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": 85051,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1429411,
+          33.55457014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2090,
+        "District_ID": 6,
+        "District": "Mesa District",
+        "subDistrict": "Mesa Community",
+        "Class": "Community",
+        "Unit_Name": "Mendoza School Group of Concerned Citizens",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 10,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0010",
+        "Address": "5831 E McLellan Rd",
+        "City": "Mesa",
+        "State": "AZ",
+        "Zipcode": 85205,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.704871,
+          33.44472076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2115,
+        "District_ID": 8,
+        "District": "Camelback District",
+        "subDistrict": "Camelback Community",
+        "Class": "Community",
+        "Unit_Name": "First United Methodist Church of Glendale",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 62,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0062",
+        "Address": "7102 N 58th Dr",
+        "City": "Glendale",
+        "State": "AZ",
+        "Zipcode": 85301,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1849987,
+          33.54001692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2122,
+        "District_ID": 6,
+        "District": "Mesa District",
+        "subDistrict": "Mesa Community",
+        "Class": "Community",
+        "Unit_Name": "VFW Post 1760",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 4760,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP4760",
+        "Address": "65 S MacDonald",
+        "City": "Mesa",
+        "State": "AZ",
+        "Zipcode": 85210,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.834035,
+          33.41368437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2125,
+        "District_ID": 8,
+        "District": "Camelback District",
+        "subDistrict": "Camelback Community",
+        "Class": "Community",
+        "Unit_Name": "St Theresa Catholic Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 147,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0147",
+        "Address": "5045 E Thomas Rd",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": 85018,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9722109,
+          33.48008085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2136,
+        "District_ID": 17,
+        "District": "Old Capitol District",
+        "subDistrict": "Old Capitol Community",
+        "Class": "Community",
+        "Unit_Name": "American Legion Post 40",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 7617,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP7617",
+        "Address": "650 E Rd 3 S",
+        "City": "Chino Valley",
+        "State": "AZ",
+        "Zipcode": 86323,
+        "County": "Yavapai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.4534409,
+          34.72380029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2147,
+        "District_ID": 19,
+        "District": "Zane Grey District",
+        "subDistrict": "Zane Grey Community",
+        "Class": "Community",
+        "Unit_Name": "Shepherd of The Pines Lutheran Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 7354,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP7354",
+        "Address": "507 W Wade Ln",
+        "City": "Payson",
+        "State": "AZ",
+        "Zipcode": 85541,
+        "County": "Gila"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.3323043,
+          34.23572089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2156,
+        "District_ID": 5,
+        "District": "Lake Pleasant District",
+        "subDistrict": "Lake Pleasant Community",
+        "Class": "Community",
+        "Unit_Name": "Peoria Survival Skills Program",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 925,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0925",
+        "Address": "9875 N 85th Ave",
+        "City": "Peoria",
+        "State": "AZ",
+        "Zipcode": 85345,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2419941,
+          33.57431727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2159,
+        "District_ID": 8,
+        "District": "Camelback District",
+        "subDistrict": "Camelback Community",
+        "Class": "Community",
+        "Unit_Name": "Cherokee APT",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 545,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0545",
+        "Address": "8801 N 56th St",
+        "City": "Paradise Valley",
+        "State": "AZ",
+        "Zipcode": 85253,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9605602,
+          33.56534053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2162,
+        "District_ID": 5,
+        "District": "Lake Pleasant District",
+        "subDistrict": "Lake Pleasant Community",
+        "Class": "Community",
+        "Unit_Name": "Peoria Survival Skills Program",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 931,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0931",
+        "Address": "9875 N 85th Ave",
+        "City": "Peoria",
+        "State": "AZ",
+        "Zipcode": 85345,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2419941,
+          33.57431727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2165,
+        "District_ID": 3,
+        "District": "Firebird District",
+        "subDistrict": "Firebird Community",
+        "Class": "Community",
+        "Unit_Name": "Litchfield Park Scout Lodge Preservation",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 90,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0090",
+        "Address": "510 N Old Litchfield Rd",
+        "City": "Litchfield Park",
+        "State": "AZ",
+        "Zipcode": 85340,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3580711,
+          33.49936084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2166,
+        "District_ID": 5,
+        "District": "Lake Pleasant District",
+        "subDistrict": "Lake Pleasant Community",
+        "Class": "Community",
+        "Unit_Name": "Peoria Survival Skill Program-Cheyenne",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 932,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0932",
+        "Address": "9875 N 85th Ave",
+        "City": "Peoria",
+        "State": "AZ",
+        "Zipcode": 85345,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2419941,
+          33.57431727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2181,
+        "District_ID": 5,
+        "District": "Lake Pleasant District",
+        "subDistrict": "Lake Pleasant Community",
+        "Class": "Community",
+        "Unit_Name": "Peoria Survival Skills Program-Coyote Hills",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 971,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0971",
+        "Address": "9875 N 85th Ave",
+        "City": "Peoria",
+        "State": "AZ",
+        "Zipcode": 85345,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2419941,
+          33.57431727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2187,
+        "District_ID": 5,
+        "District": "Lake Pleasant District",
+        "subDistrict": "Lake Pleasant Community",
+        "Class": "Community",
+        "Unit_Name": "Peoria Survival Skills Program-Frontier",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 972,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0972",
+        "Address": "9875 N 85th ave",
+        "City": "peoria",
+        "State": "AZ",
+        "Zipcode": 85345,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2419941,
+          33.57431727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2199,
+        "District_ID": 5,
+        "District": "Lake Pleasant District",
+        "subDistrict": "Lake Pleasant Community",
+        "Class": "Community",
+        "Unit_Name": "Peoria Survival Skills Program-Parkridge",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 973,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0973",
+        "Address": "9875 N 85th ave",
+        "City": "Peoria",
+        "State": "AZ",
+        "Zipcode": 85345,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2419941,
+          33.57431727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2211,
+        "District_ID": 5,
+        "District": "Lake Pleasant District",
+        "subDistrict": "Lake Pleasant Community",
+        "Class": "Community",
+        "Unit_Name": "Peoria Survival Skills Program-Apache",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 974,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0974",
+        "Address": "9875 n 85th Ave",
+        "City": "peoria",
+        "State": "AZ",
+        "Zipcode": 85345,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2419941,
+          33.57431727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2224,
+        "District_ID": 5,
+        "District": "Lake Pleasant District",
+        "subDistrict": "Lake Pleasant Community",
+        "Class": "Community",
+        "Unit_Name": "Peoria Survival Skills Program-Zuni Hills",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 975,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0975",
+        "Address": "9875 N 85th Ave",
+        "City": "Peoria",
+        "State": "AZ",
+        "Zipcode": 85345,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2419941,
+          33.57431727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2245,
+        "District_ID": 8,
+        "District": "Camelback District",
+        "subDistrict": "Camelback Community",
+        "Class": "Community",
+        "Unit_Name": "American Legion Post 41",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 119,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0119",
+        "Address": "715 S 2nd Ave",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": 85003,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0761906,
+          33.4408007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2248,
+        "District_ID": 7,
+        "District": "Four Peaks District",
+        "subDistrict": "Four Peaks Community",
+        "Class": "Community",
+        "Unit_Name": "Parents of Cub Scout Pack 618",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 618,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0618",
+        "Address": "6125 E Danbury Rd",
+        "City": "Scottsdale",
+        "State": "AZ",
+        "Zipcode": 85254,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9481409,
+          33.6416608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2258,
+        "District_ID": 3,
+        "District": "Firebird District",
+        "subDistrict": "Firebird Community",
+        "Class": "Community",
+        "Unit_Name": "Odyssey Preparatory Academy",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 263,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0263",
+        "Address": "6500 S Apache Rd",
+        "City": "Buckeye",
+        "State": "AZ",
+        "Zipcode": 85326,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6015109,
+          33.36975049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2259,
+        "District_ID": 1,
+        "District": "Thunderbird District",
+        "subDistrict": "Thunderbird Community",
+        "Class": "Community",
+        "Unit_Name": "Northwest Church Of Christ",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 526,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0526",
+        "Address": "5110 W Union Hills Dr",
+        "City": "Glendale",
+        "State": "AZ",
+        "Zipcode": 85308,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1691075,
+          33.65460921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2265,
+        "District_ID": 15,
+        "District": "Arizona Route 66 District",
+        "subDistrict": "Arizona Route 66 Community",
+        "Class": "Community",
+        "Unit_Name": "Cromer PTO",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 7142,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP7142",
+        "Address": "7150 Silver Saddle Rd",
+        "City": "Flagstaff",
+        "State": "AZ",
+        "Zipcode": 86004,
+        "County": "Coconino"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.5215809,
+          35.26953044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2276,
+        "District_ID": 8,
+        "District": "Camelback District",
+        "subDistrict": "Soccer",
+        "Class": "Community",
+        "Unit_Name": "Lassen Elem Sch Soccer and Scouting Team",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 4505,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP4505",
+        "Address": "909 W Vineyard Rd",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": 85041,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0852106,
+          33.38493113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2283,
+        "District_ID": 1,
+        "District": "Thunderbird District",
+        "subDistrict": "Thunderbird Community",
+        "Class": "Community",
+        "Unit_Name": "Dove of the Desert United Methodist Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 46,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0046",
+        "Address": "7201 W Beardsley Rd",
+        "City": "Glendale",
+        "State": "AZ",
+        "Zipcode": 85308,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2146707,
+          33.66719077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2285,
+        "District_ID": 17,
+        "District": "Old Capitol District",
+        "subDistrict": "Old Capitol Community",
+        "Class": "Community",
+        "Unit_Name": "Loyal Order of Moose Lodge 319",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 7057,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP7057",
+        "Address": "6501 E 6th St",
+        "City": "Prescott Valley",
+        "State": "AZ",
+        "Zipcode": 86314,
+        "County": "Yavapai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3519306,
+          34.57823015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2317,
+        "District_ID": 6,
+        "District": "Mesa District",
+        "subDistrict": "Mesa Community",
+        "Class": "Community",
+        "Unit_Name": "Parents of 380",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 380,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0380",
+        "Address": "654 S Sabrina",
+        "City": "Mesa",
+        "State": "AZ",
+        "Zipcode": 85208,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6031406,
+          33.40255068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2354,
+        "District_ID": 8,
+        "District": "Camelback District",
+        "subDistrict": "Camelback Community",
+        "Class": "Community",
+        "Unit_Name": "Valley View Elementary School",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 220,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0220",
+        "Address": "8220 S 7th Ave",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": 85041,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0832909,
+          33.37137107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2396,
+        "District_ID": 24,
+        "District": "Superstition District",
+        "subDistrict": "Superstition Community",
+        "Class": "Community",
+        "Unit_Name": "Florence Fire Union",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 902,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0902",
+        "Address": "7478 W Sonoma Way",
+        "City": "Florence",
+        "State": "AZ",
+        "Zipcode": 85132,
+        "County": "Pinal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.4771604,
+          33.05638086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2416,
+        "District_ID": 8,
+        "District": "Camelback District",
+        "subDistrict": "Camelback Community",
+        "Class": "Community",
+        "Unit_Name": "Our Lady of Perpetual Help Parish",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 446,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0446",
+        "Address": "7655 E Main St",
+        "City": "Scottsdale",
+        "State": "AZ",
+        "Zipcode": 85251,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9161814,
+          33.49303976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2441,
+        "District_ID": 8,
+        "District": "Camelback District",
+        "subDistrict": "Camelback Community",
+        "Class": "Community",
+        "Unit_Name": "John R Davis School",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 4426,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP4426",
+        "Address": "6209 S 15th Ave",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": 85041,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0905111,
+          33.39082045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2444,
+        "District_ID": 5,
+        "District": "Lake Pleasant District",
+        "subDistrict": "Lake Pleasant Community",
+        "Class": "Community",
+        "Unit_Name": "Circle of Peace Church of the Brethren",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 126,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0126",
+        "Address": "8430 W Deer Valley Rd",
+        "City": "Peoria",
+        "State": "AZ",
+        "Zipcode": 85383,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2419406,
+          33.68163002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2446,
+        "District_ID": 23,
+        "District": "San Tan District",
+        "subDistrict": "San Tan Community",
+        "Class": "Community",
+        "Unit_Name": "Parents of Pack 587",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 587,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0587",
+        "Address": "1348 N Velero St",
+        "City": "Chandler",
+        "State": "AZ",
+        "Zipcode": 85225,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8136292,
+          33.32705528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2455,
+        "District_ID": 4,
+        "District": "Salt River District",
+        "subDistrict": "Salt River Community",
+        "Class": "Community",
+        "Unit_Name": "Sun Valley Community Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 7,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0007",
+        "Address": "6101 S River Dr",
+        "City": "Tempe",
+        "State": "AZ",
+        "Zipcode": 85283,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8943904,
+          33.3656811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2458,
+        "District_ID": 8,
+        "District": "Camelback District",
+        "subDistrict": "Camelback Community",
+        "Class": "Community",
+        "Unit_Name": "Parents of Pack 6",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 6,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0006",
+        "Address": "6722 E Monterosa St",
+        "City": "Scottsdale",
+        "State": "AZ",
+        "Zipcode": 85251,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9359705,
+          33.49623009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2462,
+        "District_ID": 8,
+        "District": "Camelback District",
+        "subDistrict": "Camelback Community",
+        "Class": "Community",
+        "Unit_Name": "Tonalea PTA",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 501,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0501",
+        "Address": "6801 E Oak St",
+        "City": "Scottsdale",
+        "State": "AZ",
+        "Zipcode": 85257,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9340104,
+          33.47300007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2467,
+        "District_ID": 8,
+        "District": "Camelback District",
+        "subDistrict": "Camelback Community",
+        "Class": "Community",
+        "Unit_Name": "St Francis Xavier Catholic Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 127,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0127",
+        "Address": "4715 N Central Ave",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": 85012,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0736301,
+          33.50620408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2485,
+        "District_ID": 17,
+        "District": "Old Capitol District",
+        "subDistrict": "Old Capitol Community",
+        "Class": "Community",
+        "Unit_Name": "Prescott Elks #330",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 7330,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP7330",
+        "Address": "6245 E State Route 69",
+        "City": "Prescott Valley",
+        "State": "AZ",
+        "Zipcode": 86314,
+        "County": "Yavapai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3554536,
+          34.58105693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2516,
+        "District_ID": 6,
+        "District": "Mesa District",
+        "subDistrict": "Mesa Community",
+        "Class": "Community",
+        "Unit_Name": "Central Christian Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 653,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0653",
+        "Address": "933 N Lindsay Rd",
+        "City": "Mesa",
+        "State": "AZ",
+        "Zipcode": 85213,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7709602,
+          33.43255035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2559,
+        "District_ID": 8,
+        "District": "Camelback District",
+        "subDistrict": "Camelback Community",
+        "Class": "Community",
+        "Unit_Name": "Kiva PTO",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 441,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0441",
+        "Address": "6911 E McDonald Dr",
+        "City": "Paradise Valley",
+        "State": "AZ",
+        "Zipcode": 85253,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9323604,
+          33.52402083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2566,
+        "District_ID": 25,
+        "District": "Picacho Peak District",
+        "subDistrict": "Picacho Peak Community",
+        "Class": "Community",
+        "Unit_Name": "First Baptist Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 936,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0936",
+        "Address": "South Sunland Gin Road",
+        "City": "Arizona City",
+        "State": "AZ",
+        "Zipcode": 85123,
+        "County": "Pinal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6712786,
+          32.7338742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2575,
+        "District_ID": 18,
+        "District": "Verde District",
+        "subDistrict": "Verde Community",
+        "Class": "Community",
+        "Unit_Name": "Camp Verde United Methodist Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 7193,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP7193",
+        "Address": "480 S 1st St",
+        "City": "Camp Verde",
+        "State": "AZ",
+        "Zipcode": 86322,
+        "County": "Yavapai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8544903,
+          34.56262018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2580,
+        "District_ID": 13,
+        "District": "Silver Creek District",
+        "subDistrict": "Silver Creek Community",
+        "Class": "Community",
+        "Unit_Name": "First Southern Baptist Church of Overgaard",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 7780,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP7780",
+        "Address": "Sunflower Drive",
+        "City": "Overgaard",
+        "State": "AZ",
+        "Zipcode": 85928,
+        "County": "Navajo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.5638103,
+          34.40278042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2582,
+        "District_ID": 4,
+        "District": "Salt River District",
+        "subDistrict": "Salt River Community",
+        "Class": "Community",
+        "Unit_Name": "Kyrene De Las Brisas PTSO",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 976,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0976",
+        "Address": "777 N Desert Breeze Blvd E",
+        "City": "Chandler",
+        "State": "AZ",
+        "Zipcode": 85226,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.919691,
+          33.31604078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2590,
+        "District_ID": 7,
+        "District": "Four Peaks District",
+        "subDistrict": "Four Peaks Community",
+        "Class": "Community",
+        "Unit_Name": "American Legion-Frank W Wright Post 34",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 134,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0134",
+        "Address": "6272 E Cave Creek Rd",
+        "City": "Cave Creek",
+        "State": "AZ",
+        "Zipcode": 85331,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9448686,
+          33.83214589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2598,
+        "District_ID": 20,
+        "District": "Ocotillo District",
+        "subDistrict": "Ocotillo Community",
+        "Class": "Community",
+        "Unit_Name": "Stone Ridge Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 8022,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP8022",
+        "Address": "6300 E 24th St",
+        "City": "Yuma",
+        "State": "AZ",
+        "Zipcode": 85365,
+        "County": "Yuma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.5252792,
+          32.68470066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2603,
+        "District_ID": 7,
+        "District": "Four Peaks District",
+        "subDistrict": "Four Peaks Community",
+        "Class": "Community",
+        "Unit_Name": "La Casa De Cristo Lutheran Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 316,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0316",
+        "Address": "6300 E Bell Rd",
+        "City": "Scottsdale",
+        "State": "AZ",
+        "Zipcode": 85254,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9451611,
+          33.64051082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2609,
+        "District_ID": 8,
+        "District": "Camelback District",
+        "subDistrict": "Camelback Community",
+        "Class": "Community",
+        "Unit_Name": "Laveen Lions",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 205,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0205",
+        "Address": "",
+        "City": "Laveen",
+        "State": "AZ",
+        "Zipcode": 85339,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1691009,
+          33.36195071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2611,
+        "District_ID": 7,
+        "District": "Four Peaks District",
+        "subDistrict": "Four Peaks Community",
+        "Class": "Community",
+        "Unit_Name": "Cochise Elementary School Parents",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 40,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0040",
+        "Address": "9451 N 84th St",
+        "City": "Scottsdale",
+        "State": "AZ",
+        "Zipcode": 85258,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9000695,
+          33.57225503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2620,
+        "District_ID": 8,
+        "District": "Camelback District",
+        "subDistrict": "Camelback Community",
+        "Class": "Community",
+        "Unit_Name": "Laveen Community Council",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 244,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0244",
+        "Address": "PO Box 488",
+        "City": "Laveen",
+        "State": "AZ",
+        "Zipcode": 85339,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1691009,
+          33.36195071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2628,
+        "District_ID": 1,
+        "District": "Thunderbird District",
+        "subDistrict": "Thunderbird Community",
+        "Class": "Community",
+        "Unit_Name": "All Saints Episcopal Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 107,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0107",
+        "Address": "6300 N Central Ave",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": 85013,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.07376,
+          33.52956129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2648,
+        "District_ID": 8,
+        "District": "Camelback District",
+        "subDistrict": "Camelback Community",
+        "Class": "Community",
+        "Unit_Name": "Sunland Elementary",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 4424,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP4424",
+        "Address": "5401 S 7th Ave",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": 85041,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.08196,
+          33.39750023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2659,
+        "District_ID": 8,
+        "District": "Camelback District",
+        "subDistrict": "Camelback Community",
+        "Class": "Community",
+        "Unit_Name": "Glendale Youth Project",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 197,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0197",
+        "Address": "5401 W Ocotillo Rd",
+        "City": "Glendale",
+        "State": "AZ",
+        "Zipcode": 85301,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.175311,
+          33.53495023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2667,
+        "District_ID": 8,
+        "District": "Camelback District",
+        "subDistrict": "Camelback Community",
+        "Class": "Community",
+        "Unit_Name": "Paideia Academy of South Phoenix",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 787,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0787",
+        "Address": "7777 S 15th Ter",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": 85042,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0506776,
+          33.37640897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2668,
+        "District_ID": 3,
+        "District": "Firebird District",
+        "subDistrict": "Firebird Community",
+        "Class": "Community",
+        "Unit_Name": "Arizona In Action",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 360,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0360",
+        "Address": "",
+        "City": "Goodyear",
+        "State": "AZ",
+        "Zipcode": 85338,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3924304,
+          33.43652002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2677,
+        "District_ID": 5,
+        "District": "Lake Pleasant District",
+        "subDistrict": "Lake Pleasant Community",
+        "Class": "Community",
+        "Unit_Name": "St Helen's Catholic Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 262,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0262",
+        "Address": "5510 W Cholla St",
+        "City": "Glendale",
+        "State": "AZ",
+        "Zipcode": 85304,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1777487,
+          33.589156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2678,
+        "District_ID": 5,
+        "District": "Lake Pleasant District",
+        "subDistrict": "Lake Pleasant Community",
+        "Class": "Community",
+        "Unit_Name": "Parents of Pack 267",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 267,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0267",
+        "Address": "7785 W Peoria Ave",
+        "City": "Peoria",
+        "State": "AZ",
+        "Zipcode": 85345,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2273712,
+          33.5812305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2680,
+        "District_ID": 7,
+        "District": "Four Peaks District",
+        "subDistrict": "Four Peaks Community",
+        "Class": "Community",
+        "Unit_Name": "Kiwanis Club of Fountain Hills",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 243,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0243",
+        "Address": "PO Box 17793",
+        "City": "Fountain Hills",
+        "State": "AZ",
+        "Zipcode": 85268,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7214201,
+          33.60502048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2686,
+        "District_ID": 7,
+        "District": "Four Peaks District",
+        "subDistrict": "Four Peaks Community",
+        "Class": "Community",
+        "Unit_Name": "Lone Mountain Elementary School",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 810,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0810",
+        "Address": "",
+        "City": "Cave Creek",
+        "State": "AZ",
+        "Zipcode": 85331,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9433405,
+          33.83222058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2697,
+        "District_ID": 8,
+        "District": "Camelback District",
+        "subDistrict": "Camelback Community",
+        "Class": "Community",
+        "Unit_Name": "Madison Parents for Scouting",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 41,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0041",
+        "Address": "5525 N 16th St",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": 85016,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0474935,
+          33.51687114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2703,
+        "District_ID": 25,
+        "District": "Picacho Peak District",
+        "subDistrict": "Picacho Peak Community",
+        "Class": "Community",
+        "Unit_Name": "Maricopa Veterans Center",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 997,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0997",
+        "Address": "",
+        "City": "Maricopa",
+        "State": "AZ",
+        "Zipcode": 85139,
+        "County": "Pinal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0497803,
+          33.06240071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2717,
+        "District_ID": 6,
+        "District": "Mesa District",
+        "subDistrict": "Mesa Community",
+        "Class": "Community",
+        "Unit_Name": "Velda Rose United Methodist Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 253,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0253",
+        "Address": "5540 E Main St",
+        "City": "Mesa",
+        "State": "AZ",
+        "Zipcode": 85205,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7118101,
+          33.41567295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2724,
+        "District_ID": 15,
+        "District": "Arizona Route 66 District",
+        "subDistrict": "Arizona Route 66 Community",
+        "Class": "Community",
+        "Unit_Name": "Sechrist School PTO",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 7033,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP7033",
+        "Address": "2230 N Fort Valley Rd",
+        "City": "Flagstaff",
+        "State": "AZ",
+        "Zipcode": 86001,
+        "County": "Coconino"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6538467,
+          35.22280163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2732,
+        "District_ID": 15,
+        "District": "Arizona Route 66 District",
+        "subDistrict": "Arizona Route 66 Community",
+        "Class": "Community",
+        "Unit_Name": "Frank Perkins American Legion Post 15",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 7050,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP7050",
+        "Address": "PO Box 1",
+        "City": "Winslow",
+        "State": "AZ",
+        "Zipcode": 86047,
+        "County": "Navajo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.7027683,
+          35.02951189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2738,
+        "District_ID": 15,
+        "District": "Arizona Route 66 District",
+        "subDistrict": "Arizona Route 66 Community",
+        "Class": "Community",
+        "Unit_Name": "Malpais Kiwanis Club",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 7137,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP7137",
+        "Address": "",
+        "City": "Flagstaff",
+        "State": "AZ",
+        "Zipcode": 86001,
+        "County": "Coconino"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6464405,
+          35.19782025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2774,
+        "District_ID": 23,
+        "District": "San Tan District",
+        "subDistrict": "San Tan Community",
+        "Class": "Community",
+        "Unit_Name": "Knights of Columbus St Mary Magdalene",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 522,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0522",
+        "Address": "PO Box 2101",
+        "City": "Higley",
+        "State": "AZ",
+        "Zipcode": 85296,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.71983,
+          33.32146117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2786,
+        "District_ID": 24,
+        "District": "Superstition District",
+        "subDistrict": "Superstition Community",
+        "Class": "Community",
+        "Unit_Name": "Queen Creek Kiwanis",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 735,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0735",
+        "Address": "",
+        "City": "Queen Creek",
+        "State": "AZ",
+        "Zipcode": 85142,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6377209,
+          33.24230016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2790,
+        "District_ID": 14,
+        "District": "White Mountain District",
+        "subDistrict": "White Mountain Community",
+        "Class": "Community",
+        "Unit_Name": "White Mountain Rotary Club",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 7239,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP7239",
+        "Address": "",
+        "City": "Pinetop",
+        "State": "AZ",
+        "Zipcode": 85935,
+        "County": "Navajo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.9463511,
+          34.13012067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2793,
+        "District_ID": 8,
+        "District": "Camelback District",
+        "subDistrict": "Camelback Community",
+        "Class": "Community",
+        "Unit_Name": "Calvary United Methodist Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 791,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0791",
+        "Address": "7949 W Indian School Rd",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": 85033,
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2308242,
+          33.49428452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2800,
+        "District_ID": 15,
+        "District": "Arizona Route 66 District",
+        "subDistrict": "Arizona Route 66 Community",
+        "Class": "Community",
+        "Unit_Name": "American Legion John Ivens Post 42",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 7230,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP7230",
+        "Address": "PO Box 887",
+        "City": "Grand Canyon",
+        "State": "AZ",
+        "Zipcode": 86023,
+        "County": "Coconino"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1198093,
+          36.05210024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2930,
+        "District_ID": 9,
+        "District": "Coronado District",
+        "subDistrict": "Coronado Community",
+        "Class": "Community",
+        "Unit_Name": "VFW Post 10385",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 5310,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP5310",
+        "Address": "3481 W 8th St",
+        "City": "Thatcher",
+        "State": "AZ",
+        "Zipcode": "",
+        "County": "Graham"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.7583233,
+          32.8310906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2931,
+        "District_ID": 12,
+        "District": "Escudilla District",
+        "subDistrict": "Escudilla Community",
+        "Class": "Community",
+        "Unit_Name": "Presbyterian Community Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 7080,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP7080",
+        "Address": "41 Supai",
+        "City": "Springerville",
+        "State": "AZ",
+        "Zipcode": "",
+        "County": "Apache"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.2851997,
+          34.13423629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2933,
+        "District_ID": 3,
+        "District": "Firebird District",
+        "subDistrict": "Firebird Community",
+        "Class": "Community",
+        "Unit_Name": "Verrado Assembly",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 402,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0402",
+        "Address": "4239 N Village St",
+        "City": "Buckeye",
+        "State": "AZ",
+        "Zipcode": "",
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.5119828,
+          33.49542121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2941,
+        "District_ID": 7,
+        "District": "Four Peaks District",
+        "subDistrict": "Four Peaks Community",
+        "Class": "Community",
+        "Unit_Name": "Boys & Girls Club Virginia G Piper",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 27,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0027",
+        "Address": "10515 E Lakeview Dr",
+        "City": "Scottsdale",
+        "State": "AZ",
+        "Zipcode": "",
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8552894,
+          33.57739313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2958,
+        "District_ID": 23,
+        "District": "San Tan District",
+        "subDistrict": "Salt River Community",
+        "Class": "Community",
+        "Unit_Name": "Muslim American Society MAS",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 1,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0001",
+        "Address": "1071 N Alma School Rd",
+        "City": "Chandler",
+        "State": "AZ",
+        "Zipcode": "",
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8586999,
+          33.32166367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2962,
+        "District_ID": 19,
+        "District": "Zane Grey District",
+        "subDistrict": "Zane Grey Community",
+        "Class": "Community",
+        "Unit_Name": "BPOE Payson Elks 2154",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 7554,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP7554",
+        "Address": "1206 N Beeline Hwy",
+        "City": "Payson",
+        "State": "AZ",
+        "Zipcode": "",
+        "County": "Gila"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.3237232,
+          34.2566467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2964,
+        "District_ID": 8,
+        "District": "Camelback District",
+        "subDistrict": "Thunderbird Community",
+        "Class": "Community",
+        "Unit_Name": "American Legion Post 29",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 229,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0229",
+        "Address": "6822 N 57th Dr",
+        "City": "Glendale",
+        "State": "AZ",
+        "Zipcode": "",
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1834872,
+          33.53770585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2970,
+        "District_ID": 8,
+        "District": "Camelback District",
+        "subDistrict": "Camelback Community",
+        "Class": "Community",
+        "Unit_Name": "Phoenix First United Methodist Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 232,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0232",
+        "Address": "5510 N Central Ave",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": "",
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0737701,
+          33.51707833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2985,
+        "District_ID": 6,
+        "District": "Mesa District",
+        "subDistrict": "Mesa Community",
+        "Class": "Community",
+        "Unit_Name": "Progressive Baptist Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 596,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0596",
+        "Address": "761 S Horne St",
+        "City": "Mesa",
+        "State": "AZ",
+        "Zipcode": "",
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8138596,
+          33.40098669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3003,
+        "District_ID": 8,
+        "District": "Camelback District",
+        "subDistrict": "Thunderbird Community",
+        "Class": "Community",
+        "Unit_Name": "Lowell Elementary School",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 4,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0004",
+        "Address": "1121 S 3rd Ave",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": "",
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0762231,
+          33.43655103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3008,
+        "District_ID": 18,
+        "District": "Verde District",
+        "subDistrict": "Verde Community",
+        "Class": "Community",
+        "Unit_Name": "Verde Valley Fire District",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 7331,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP7331",
+        "Address": "2700 E Godard Rd",
+        "City": "Cottonwood",
+        "State": "AZ",
+        "Zipcode": "",
+        "County": "Yavapai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.989789,
+          34.7042998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3013,
+        "District_ID": 1,
+        "District": "Thunderbird District",
+        "subDistrict": "Thunderbird Community",
+        "Class": "Community",
+        "Unit_Name": "Parents of Pack 19",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 19,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0019",
+        "Address": "3423 W Zuni Brave Trl",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": "",
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1340171,
+          33.80632919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3014,
+        "District_ID": 4,
+        "District": "Salt River District",
+        "subDistrict": "Salt River Community",
+        "Class": "Community",
+        "Unit_Name": "Horizon Community Learning Center",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 991,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0991",
+        "Address": "16233 S 48th St",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": "",
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9787541,
+          33.29849839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3015,
+        "District_ID": 8,
+        "District": "Camelback District",
+        "subDistrict": "Salt River Community",
+        "Class": "Community",
+        "Unit_Name": "Mentor Kids USA",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 17,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0017",
+        "Address": "3146 E Wier Ave",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": "",
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0152283,
+          33.4037816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3016,
+        "District_ID": 7,
+        "District": "Four Peaks District",
+        "subDistrict": "Four Peaks Community",
+        "Class": "Community",
+        "Unit_Name": "21st CCLC-Arrowhead",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 123,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0123",
+        "Address": "3820 E Nisbet Rd",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": "",
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9993076,
+          33.62341212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3017,
+        "District_ID": 7,
+        "District": "Four Peaks District",
+        "subDistrict": "Four Peaks Community",
+        "Class": "Community",
+        "Unit_Name": "21st CCLC-Cactus View",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 22,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0022",
+        "Address": "2650 E Contention Mine Rd",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": "",
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0255667,
+          33.64647623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3018,
+        "District_ID": 7,
+        "District": "Four Peaks District",
+        "subDistrict": "Four Peaks Community",
+        "Class": "Community",
+        "Unit_Name": "21st CCLC-Echo Mountain",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 21,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0021",
+        "Address": "1811 E Michigan Ave",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": "",
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0442669,
+          33.65003159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3019,
+        "District_ID": 7,
+        "District": "Four Peaks District",
+        "subDistrict": "Four Peaks Community",
+        "Class": "Community",
+        "Unit_Name": "21st CCLC-Larkspur",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 23,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0023",
+        "Address": "2450 E Larkspur Dr",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": "",
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0296487,
+          33.60134178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3020,
+        "District_ID": 8,
+        "District": "Camelback District",
+        "subDistrict": "Camelback Community",
+        "Class": "Community",
+        "Unit_Name": "Bernard Black Elementary",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 427,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0427",
+        "Address": "6550 S 27th Ave",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": "",
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1176098,
+          33.38751268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3021,
+        "District_ID": 8,
+        "District": "Camelback District",
+        "subDistrict": "Camelback Community",
+        "Class": "Community",
+        "Unit_Name": "Chicanos Por La Causa",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 117,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0117",
+        "Address": "3216 W Van Buren St",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": "",
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1290625,
+          33.45165591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3022,
+        "District_ID": 8,
+        "District": "Camelback District",
+        "subDistrict": "Camelback Community",
+        "Class": "Community",
+        "Unit_Name": "Children First Academy Phoenix",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 234,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0234",
+        "Address": "1648 S 16th St",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": "",
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0488536,
+          33.43196018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3023,
+        "District_ID": 8,
+        "District": "Camelback District",
+        "subDistrict": "Camelback Community",
+        "Class": "Community",
+        "Unit_Name": "Starshine Academy",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 917,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0917",
+        "Address": "3535 E McDowell Rd",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": "",
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.00573,
+          33.46535616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3025,
+        "District_ID": 8,
+        "District": "Camelback District",
+        "subDistrict": "Camelback Community",
+        "Class": "Community",
+        "Unit_Name": "Teleos Prep Academy",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 580,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0580",
+        "Address": "1401 E Jefferson St",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": "",
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0518058,
+          33.44589119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3026,
+        "District_ID": 8,
+        "District": "Camelback District",
+        "subDistrict": "Camelback Community",
+        "Class": "Community",
+        "Unit_Name": "William T Machan",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 96,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0096",
+        "Address": "2140 E Virginia Ave",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": "",
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0353606,
+          33.47665051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3031,
+        "District_ID": 7,
+        "District": "Four Peaks District",
+        "subDistrict": "Four Peaks Community",
+        "Class": "Community",
+        "Unit_Name": "Archway Classical Academy Scottsdale",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 682,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0682",
+        "Address": "7496 E Tierra Buena Ln",
+        "City": "Scottsdale",
+        "State": "AZ",
+        "Zipcode": "",
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9181578,
+          33.62990188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3032,
+        "District_ID": 7,
+        "District": "Four Peaks District",
+        "subDistrict": "Four Peaks Community",
+        "Class": "Community",
+        "Unit_Name": "Boys & Girls Club Thunderbirds Branch",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 24,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0024",
+        "Address": "20199 N 78th Pl",
+        "City": "Scottsdale",
+        "State": "AZ",
+        "Zipcode": "",
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9095798,
+          33.66889104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3034,
+        "District_ID": 20,
+        "District": "Ocotillo District",
+        "subDistrict": "Ocotillo Community",
+        "Class": "Community",
+        "Unit_Name": "Immaculate Heart of Mary Parish",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 8025,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP8025",
+        "Address": "310 Spring St",
+        "City": "Somerton",
+        "State": "AZ",
+        "Zipcode": "",
+        "County": "Yuma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.7123133,
+          32.597843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3036,
+        "District_ID": 4,
+        "District": "Salt River District",
+        "subDistrict": "Salt River Community",
+        "Class": "Community",
+        "Unit_Name": "Children First Academy of Tempe",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 171,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0171",
+        "Address": "1938 E Apache Blvd",
+        "City": "Tempe",
+        "State": "AZ",
+        "Zipcode": "",
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9021708,
+          33.41559368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3037,
+        "District_ID": 5,
+        "District": "Lake Pleasant District",
+        "subDistrict": "Lake Pleasant Community",
+        "Class": "Community",
+        "Unit_Name": "Discover U Elementary",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 113,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0113",
+        "Address": "13226 N 113th Ave",
+        "City": "Youngtown",
+        "State": "AZ",
+        "Zipcode": "",
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3023726,
+          33.60424967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3038,
+        "District_ID": 20,
+        "District": "Ocotillo District",
+        "subDistrict": "Ocotillo Community",
+        "Class": "Community",
+        "Unit_Name": "Desert Grace Community Church of Nazarene",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 8056,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP8056",
+        "Address": "12134 Interstate 8 Frontage Rd",
+        "City": "Yuma",
+        "State": "AZ",
+        "Zipcode": "",
+        "County": "Yuma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.4258156,
+          32.67134523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2929,
+        "District_ID": 8,
+        "District": "Camelback District",
+        "subDistrict": "Camelback Community",
+        "Class": "Community",
+        "Unit_Name": "Scottsdale Presbyterian Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 100,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0100",
+        "Address": "3421 N Hayden Rd",
+        "City": "Scottsdale",
+        "State": "AZ",
+        "Zipcode": "",
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.908931,
+          33.48825053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2932,
+        "District_ID": 3,
+        "District": "Firebird District",
+        "subDistrict": "Firebird Community",
+        "Class": "Community",
+        "Unit_Name": "St Thomas Aquinas Catholic Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 64,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0064",
+        "Address": "13720 W Thomas Rd",
+        "City": "Avondale",
+        "State": "AZ",
+        "Zipcode": "",
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3555179,
+          33.47974056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2943,
+        "District_ID": 18,
+        "District": "Verde District",
+        "subDistrict": "Verde Community",
+        "Class": "Community",
+        "Unit_Name": "Verde Valley Moose Lodge 1449",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 7029,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP7029",
+        "Address": "1051 S Broadway",
+        "City": "Clarkdale",
+        "State": "AZ",
+        "Zipcode": "",
+        "County": "Yavapai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0371132,
+          34.75812851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2944,
+        "District_ID": 7,
+        "District": "Four Peaks District",
+        "subDistrict": "Four Peaks Community",
+        "Class": "Community",
+        "Unit_Name": "Cross in the Desert United Methodist Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 426,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0426",
+        "Address": "12835 N 32nd St",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": "",
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0126579,
+          33.60367354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2946,
+        "District_ID": 5,
+        "District": "Lake Pleasant District",
+        "subDistrict": "Lake Pleasant Community",
+        "Class": "Community",
+        "Unit_Name": "New Life Community Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 460,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0460",
+        "Address": "8155 W Thunderbird Rd",
+        "City": "Peoria",
+        "State": "AZ",
+        "Zipcode": "",
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2349785,
+          33.60967404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2951,
+        "District_ID": 5,
+        "District": "Lake Pleasant District",
+        "subDistrict": "Lake Pleasant Community",
+        "Class": "Community",
+        "Unit_Name": "Sons of the American Legion Squadron 62",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 293,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0293",
+        "Address": "9847 W Desert Cove Ave",
+        "City": "Peoria",
+        "State": "AZ",
+        "Zipcode": "",
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2715079,
+          33.58474783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2953,
+        "District_ID": 23,
+        "District": "San Tan District",
+        "subDistrict": "San Tan Community",
+        "Class": "Community",
+        "Unit_Name": "Chandler United Methodist Church",
+        "Unit_AltName": "",
+        "Unit_Type": "Pack",
+        "Unit_Num": 524,
+        "Unit_Class": "CP",
+        "Unit_ID": "CP0524",
+        "Address": "450 E Chandler Heights Rd",
+        "City": "Chandler",
+        "State": "AZ",
+        "Zipcode": "",
+        "County": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8351813,
+          33.23384269
+        ]
+      }
+    }
+  ]
+}
