@@ -7,21 +7,27 @@ GrandCanyonCouncilBSA_Leaflet
 
 Map for Grand Canyon Council BSA showing District Boundaries
 
-### Version
-
-`Major/Minor/Patch 0.0.0`
-1. MAJOR version when you make incompatible API changes.
-2. MINOR version when you add functionality in a backwards-compatible manner.
-3. PATCH version when you make backwards-compatible bug fixes.
-
-#### `Created: 12/21/2015`
-#### `v1.0.0 - 12/21/2015`
-
-### Credits
-
 ### Keywords
 
 `BSA` `Boy Scouts of America` `Grand Canyon Council` `Units` `Districts`
+
+### Version
+
+Releases will be numbered with the following format:
+
+`<major>.<minor>.<patch>`
+
+And constructed with the following guidelines:
+
+* 1. MAJOR version when you make incompatible API changes **bumps the major** while resetting minor and patch
+* 2. MINOR version when you add functionality in a backwards-compatible manner **bumps the minor** while resetting the patch
+* 3. PATCH version when you make backwards-compatible bug fixes and misc changes **bumps only the patch**
+
+* `version 1.0.0`
+* `Updated: 12/21/2015`
+* `Created: 12/21/2015`
+
+### Credits
 
 ### Documentation
 
@@ -29,7 +35,11 @@ A detailed list of the changes and fixes in each version update can be found in 
 
 - [CHANGELOG] (CHANGELOG.md)
 
+### Licensing
+
 Code released under the MIT license.
+
+- [LICENSE] (LICENSE.md)
 
 Copyright (c) 2015 Vern Wolfley
 
