@@ -1,5 +1,6 @@
-# GrandCanyonCouncilBSA_Leaflet #
-********************************************
+GrandCanyonCouncilBSA_Leaflet
+=====================================
+
 
 [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
 [![Semver](http://img.shields.io/SemVer/2.0.0.png)](http://semver.org/spec/v4.4.7.html)
