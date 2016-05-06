@@ -1,6 +1,6 @@
 # CHANGELOG #
-### GrandCanyonCouncilBSA_Leaflet Website ###
-
+#### GrandCanyonCouncilBSA_Leaflet Website ####
+***********************************************
 
 [![Semver](http://img.shields.io/SemVer/2.0.0.png)](http://semver.org/spec/v2.0.0.html)
 
@@ -15,10 +15,10 @@ And constructed with the following guidelines:
 1. MAJOR version when you make incompatible API changes **bumps the major** resets minor and patch
 2. MINOR version when you add functionality in a backwards-compatible manner **bumps the minor** resets patch
 3. PATCH version when you make backwards-compatible bug fixes and misc changes **bumps only the patch**
+***************************************************************************************************************
 
-===============================================================================================================================
-
-### Version x.x.x (xx/xx/2015)
+### Version x.x.x
+#### (xx/xx/2016)
 
 ### Version 1.1.0 (12/30/2015)
 
