@@ -6,7 +6,7 @@ L.mapbox.accessToken = "pk.eyJ1IjoidndvbGZsZXkiLCJhIjoiY2lpdW40MjVuMDAyMnVna215a
 var mbAttr = 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, ' +
     '<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
     'Imagery © <a href="http://mapbox.com">Mapbox</a>';
-var mbUrl = 'https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6IjZjNmRjNzk3ZmE2MTcwOTEwMGY0MzU3YjUzOWFmNWZhIn0.Y8bhBaUMqFiPrDRW9hieoQ';
+var mbUrl = 'https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoidndvbGZsZXkiLCJhIjoiY2lpdW40MjVuMDAyMnVna215anVtcWRsaCJ9.-Jn65V2EqkK-0SjT5N4kkQ.Y8bhBaUMqFiPrDRW9hieoQ';
 
 var geoCodeSearch = "https://api.mapbox.com/geocoding/v5/mapbox.places/{query}.json?types=us,Arizona&access_token=pk.eyJ1IjoidndvbGZsZXkiLCJhIjoiY2lpdW40MjVuMDAyMnVna215anVtcWRsaCJ9.-Jn65V2EqkK-0SjT5N4kkQ";
 
@@ -181,10 +181,10 @@ function zoomToFeature(e) {
     map.fitBounds(e.target.getBounds());
 }
 
-function onEachFeature(feature, layer) {
+function onDistrictLayer(feature, layer) {
     layer.on({
-        mouseover: highlightFeature,
-        mouseout: resetHighlight,
+        // mouseover: highlightFeature,
+        // mouseout: resetHighlight,
         click: zoomToFeature
     });
 
@@ -192,23 +192,53 @@ function onEachFeature(feature, layer) {
     var info1 = f.properties.District;
     var info2 = f.properties.DE;
     var info3 = f.properties.Website;
-    var popupContent = "<span class='title'>" + info1 + "</span><br>District Executive: " + info2 + "<br><a href='" + info3 + "'>Website</a>";
+    var popupContent = "<span class='title'>" + info1 + "</span><br><span class='de'>District Executive: " + info2 + "</span><br><a href='" + info3 + "'>Website</a>";
     layer.bindPopup(popupContent);
 }
+
+function onPointLayer(feature, layer) {
+    var f = feature.properties;
+    var popupPoint = "<p style='text-align:center;'><strong>" + f.Class + " " + f.Unit_Type + "</strong><br>" + f.Unit_Num; + "</p>"
+    layer.bindPopup(popupPoint);
+}
+
+
+// =============================================================================================================>
 // add districts layer
 var districts = L.geoJson(dists, {
     style: style,
-    onEachFeature: onEachFeature
+    onEachFeature: onDistrictLayer
 }).addTo(map);
 
-// // add zipcode layer
-// var zipcodes = L.geoJson(zips, {
-//     style: style
-// }).addTo(map);
+// add Community Packs
+var cPacks = L.geoJson(cPacks, {
+    onEachFeature: onPointLayer,
+    pointToLayer: L.mapbox.marker.style,
+    style: function(feature) {return feature.properties;}
+}).addTo(map);
 
+// add Community Troops
+var cTroops = L.geoJson(cTroops, {
+    onEachFeature: onPointLayer,
+    pointToLayer: L.mapbox.marker.style,
+    style: function(feature) {return feature.properties;}
+}).addTo(map);
+
+// add Community Troops
+var cCrews = L.geoJson(cCrews, {
+    onEachFeature: onPointLayer,
+    pointToLayer: L.mapbox.marker.style,
+    style: function(feature) {return feature.properties;}
+}).addTo(map);
+
+
+
+// =============================================================================================================>
 var overLays = {
     "Districts": districts,
-    // "Zip Codes": zipcodes
+    "Community Packs": cPacks,
+    "Community Troops": cTroops,
+    "Community Crews": cCrews
 };
 L.control.layers(baseMaps, overLays).addTo(map);
 L.control.locate({

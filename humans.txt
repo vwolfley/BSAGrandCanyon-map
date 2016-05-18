@@ -27,8 +27,8 @@
 # SITE
     Site name: GCC District Map
     Site URL:
-    Version: v1.1.0
-    Last updated: 12/21/2015
+    Version: v1.2.0
+    Last updated: 05/18/2016
     Creation Date: 12/21/2015
     Language: English
     Doctype: HTML5
