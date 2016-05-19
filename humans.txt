@@ -1,0 +1,35 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+        Name:  Vern Wolfley
+        Role: GIS Analyst/Developer
+        Contact:
+        Twitter: @vernwolfley
+        From: Litchfield Park, AZ
+
+        Name:  Ron Pratt
+        Role: Collaborator
+        Contact:
+        Twitter:
+        From: Mesa, AZ
+
+
+# THANKS
+
+
+# TECHNOLOGY COLOPHON
+
+    Standards: HTML5, CSS3
+    Components: HTML5BoilerPlate, Normalize.css, jQuery, Modernizr, Bootstrap, Grunt
+
+# SITE
+    Site name: GCC District Map
+    Site URL:
+    Version: v1.2.0
+    Last updated: 05/18/2016
+    Creation Date: 12/21/2015
+    Language: English
+    Doctype: HTML5
+    IDE: Sublime Text

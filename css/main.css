@@ -1,6 +1,23 @@
+/* ========================================================================
+ * CSS document for MAG Main Map Page
+ * @main.css | http://
+ * ========================================================================
+ * Copyright 2016 Vern Wolfley
+ * Licensed under MIT
+ * ======================================================================== */
+/*!
+ * ==========================================
+ *  @main.css | version | 1.0.0 | MIT License
+ * ==========================================
+ */
+
 html, body, #mapDiv {
-  height: 100%;
-  width: 100%;
+    width: 100%;
+    height: 100%;
+}
+body {
+    padding: 0;
+    margin: 0;
 }
 html {
     font-size: 1em;
@@ -37,7 +54,6 @@ html {
 }
 .navbar-brand-image {
     display: inline-block;
-    /*height: 40px;*/
     margin-right: 10px;
     margin-left: 10px;
 }
@@ -61,6 +77,11 @@ html {
     display: inline-block;
     position: absolute;
     right: 1px;
+}
+#home {
+    display: inline-block;
+    position: absolute;
+    right: 65px;
 }
 #search {
     display: inline-block;
@@ -123,11 +144,40 @@ html {
 .BasemapToggle .basemapTitle {
     width: auto;
 }
+.leaflet-bar a {
+    background-color: #fff;
+    border-bottom: 1px solid #ccc;
+    /* border-bottom-color: rgb(204, 204, 204); */
+    color: #444;
+    display: block;
+    height: 26px;
+    width: 26px;
+    line-height: 1.45 !important;
+    text-align: center;
+    text-decoration: none;
+    font: bold 18px'Lucida Console', Monaco, monospace;
+}
+.leaflet-control-locate a {
+     padding: 0;
+}
 
+.leaflet-control-mapbox-geocoder-results a, .leaflet-control-mapbox-geocoder-results span {
+    padding: 0 10px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    display: block;
+    width: 100%;
+    font-size: 12px;
+    line-height: 26px;
+    text-align: left;
+    overflow: hidden;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: normal;
+}
 
-
-
-
+/* ==========================================
+**** Popup custom styles ****
+============================================= */
 .esriPopup .titlePane, .esriPopup.light .titlePane, .esriPopup.dark .titlePane {
     height: initial;
     padding: 3px 0 3px 10px;
@@ -157,6 +207,37 @@ t1 {
     cursor: pointer;
     opacity: .85;
 }
+.title {
+    font-weight: bold;
+    font-size: 14px;
+}
+.de {
+    font-size: 11px;
+}
+
+/*
+ * These CSS rules affect the tooltips within maps with the custom-popup
+ * class. See the full CSS for all customizable options:
+ * https://github.com/mapbox/mapbox.js/blob/001754177f3985c0e6b4a26e3c869b0c66162c99/theme/style.css#L321-L366
+ */
+.custom-popup .leaflet-popup-content-wrapper {
+  background:#2E5173;
+  color:#fff;
+  font-size:16px;
+  line-height:24px;
+  }
+.custom-popup .leaflet-popup-content-wrapper a {
+  color:rgba(255,255,255,0.5);
+  }
+.custom-popup .leaflet-popup-tip-container {
+  width:30px;
+  height:15px;
+  }
+.custom-popup .leaflet-popup-tip {
+  border-left:15px solid transparent;
+  border-right:15px solid transparent;
+  border-top:15px solid #2E5173;
+  }
 
 /* ==========================================
 **** modal custom styles ****
@@ -169,4 +250,23 @@ t1 {
     background-color: #153359;
     border-style: none;
     color: #fff;
+}
+
+.leaflet-top .leaflet-control {
+    margin-top: 110px;
+}
+/* ==========================================
+**** Media Queries styles ****
+============================================= */
+/* iPad Portrait*/
+@media only screen and (max-width: 768px) {
+    .navbar-brand>img {
+    height: 80%;
+    margin: 9px 10px 9px 0;
+}
+/* iPhone 6Plus*/
+@media only screen and (max-width: 768px) {
+    .navbar-brand>img {
+    height: 50%;
+    margin: 9px 10px 9px 0;
 }

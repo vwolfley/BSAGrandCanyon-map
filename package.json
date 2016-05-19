@@ -1,0 +1,47 @@
+{
+  "name": "GCCProject",
+  "version": "1.2.0",
+  "date": "05/18/2016",
+  "description": "Map showing the Districts and Unit locations for the BSA Grand Canyon Council",
+  "keywords": [
+    "BSA",
+    "Boy Scouts of America",
+    "Grand Canyon Council",
+    "Units",
+    "Districts"
+  ],
+  "main": "index.js",
+  "homepage": "",
+  "author": "Vern Wolfley <@vernwolfley>",
+  "contributors": [
+    {
+      "name": "Vern Wolfley",
+      "twitter": "@vernwolfley",
+      "email": ""
+    },
+    {
+      "name": "",
+      "email": ""
+    }
+  ],
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "0.4.5",
+    "grunt-contrib-concat": "*",
+    "grunt-contrib-csslint": "*",
+    "grunt-contrib-cssmin": "*",
+    "grunt-contrib-jshint": "*",
+    "grunt-contrib-uglify": "*",
+    "grunt-contrib-watch": "*",
+    "grunt-htmlhint": "*",
+    "grunt-text-replace": "*",
+    "grunt-version-check": "*",
+    "jshint-stylish-ex": "*",
+    "lodash": "*",
+    "maki": "^2.0.5",
+    "matchdep": "*",
+    "normalize.css": "*"
+  },
+  "license": "MIT"
+}
