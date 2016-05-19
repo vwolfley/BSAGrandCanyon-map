@@ -1,8 +1,8 @@
-# GrandCanyonCouncilBSA_Leaflet #
-Map for Grand Canyon Council BSA showing District Boundaries and Unit Locations
+# BSAGrandCanyon-map #
+Map for the Grand Canyon Council BSA showing District Boundaries and Unit Locations
 
-[![dependencies](https://david-dm.org/vwolfley/GrandCanyonCouncilBSA_Leaflet.png)](https://david-dm.org/vwolfley/GrandCanyonCouncilBSA_Leaflet)
-[![devDependency Status](https://david-dm.org/vwolfley/GrandCanyonCouncilBSA_Leaflet/dev-status.png)](https://david-dm.org/vwolfley/GrandCanyonCouncilBSA_Leaflet)
+[![dependencies](https://david-dm.org/vwolfley/BSAGrandCanyon-map.png)](https://david-dm.org/vwolfley/BSAGrandCanyon-map)
+[![devDependency Status](https://david-dm.org/vwolfley/BSAGrandCanyon-map/dev-status.png)](https://david-dm.org/vwolfley/BSAGrandCanyon-map)
 [![Semver](http://img.shields.io/SemVer/2.0.0.png)](http://semver.org/spec/v4.4.7.html)
 [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
 [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -13,8 +13,8 @@ Map for Grand Canyon Council BSA showing District Boundaries and Unit Locations
 
 ## Version
 
-#### `version 1.2.0` ####
- `Updated: 05/18/2016`
+#### `version 1.3.0` ####
+ `Updated: 05/19/2016`
  `Created: 12/21/2015`
 
 Releases will be numbered with the following format:
