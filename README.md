@@ -1,20 +1,20 @@
-GrandCanyonCouncilBSA_Leaflet
-=====================================
-
-[![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
-[![Semver](http://img.shields.io/SemVer/2.0.0.png)](http://semver.org/spec/v4.4.7.html)
-[![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-
+# GrandCanyonCouncilBSA_Leaflet #
 Map for Grand Canyon Council BSA showing District Boundaries and Unit Locations
 
-### Keywords
+[![dependencies](https://david-dm.org/vwolfley/GrandCanyonCouncilBSA_Leaflet.png)](https://david-dm.org/vwolfley/GrandCanyonCouncilBSA_Leaflet)
+[![devDependency Status](https://david-dm.org/vwolfley/GrandCanyonCouncilBSA_Leaflet/dev-status.png)](https://david-dm.org/vwolfley/GrandCanyonCouncilBSA_Leaflet)
+[![Semver](http://img.shields.io/SemVer/2.0.0.png)](http://semver.org/spec/v4.4.7.html)
+[![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
+[![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
+## Keywords
 
 `BSA` `Boy Scouts of America` `Grand Canyon Council` `Units` `Districts` `Boundaries` `Cubs` `Scouts` `Troop` `Team` `Crew` `Arizona`
 
-### Version
+## Version
 
-#### `version 1.0.0` ####
- `Updated: 12/21/2015`
+#### `version 1.2.0` ####
+ `Updated: 05/18/2016`
  `Created: 12/21/2015`
 
 Releases will be numbered with the following format:
@@ -27,20 +27,18 @@ And constructed with the following guidelines:
 2. MINOR version when you add functionality in a backwards-compatible manner **bumps the minor** resets patch
 3. PATCH version when you make backwards-compatible bug fixes and misc changes **bumps only the patch**
 
-***************************************************************************************************************
+## Credits
 
-### Credits
-
-### Documentation
+## Documentation
 
 A detailed list of the changes and fixes in each version update can be found in the CHANGELOG.md.
 
 - [CHANGELOG] (CHANGELOG.md)
 
-### Issues
+## Issues
 
 
-### Licensing
+## Licensing
 
 Code released under the MIT license.
 

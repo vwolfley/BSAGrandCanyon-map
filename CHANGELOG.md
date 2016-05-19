@@ -20,6 +20,14 @@ And constructed with the following guidelines:
 
 ### Version x.x.x | xx/xx/2016
 
+### Version 1.2.0 | 05/18/2016
+
+* updated mapbox key
+* added community units to map
+* added community units to menu
+* created custom popups
+* added new district boundaries
+
 ### Version 1.1.0 | 12/30/2015
 
 * added basemap control box
