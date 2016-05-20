@@ -1,6 +1,7 @@
 # BSAGrandCanyon-map #
 Map for the Grand Canyon Council BSA showing District Boundaries and Unit Locations
 
+[![GitHub issues](https://img.shields.io/github/issues/vwolfley/BSAGrandCanyon-map.svg)](https://github.com/vwolfley/BSAGrandCanyon-map/issues)
 [![dependencies](https://david-dm.org/vwolfley/BSAGrandCanyon-map.png)](https://david-dm.org/vwolfley/BSAGrandCanyon-map)
 [![devDependency Status](https://david-dm.org/vwolfley/BSAGrandCanyon-map/dev-status.png)](https://david-dm.org/vwolfley/BSAGrandCanyon-map)
 [![Semver](http://img.shields.io/SemVer/2.0.0.png)](http://semver.org/spec/v4.4.7.html)
@@ -14,7 +15,9 @@ Map for the Grand Canyon Council BSA showing District Boundaries and Unit Locati
 ## Version
 
 #### `version 1.3.0` ####
+
  `Updated: 05/19/2016`
+
  `Created: 12/21/2015`
 
 Releases will be numbered with the following format:
@@ -37,6 +40,12 @@ A detailed list of the changes and fixes in each version update can be found in 
 
 ## Issues
 
+## Resources
+
+[Leaflet](http://leafletjs.com/)
+[Mapbox] (https://www.mapbox.com/)
+[Spiderfier] (https://github.com/jawj/OverlappingMarkerSpiderfier-Leaflet)
+[MapTimeBoston](http://maptimeboston.github.io/leaflet-intro/)
 
 ## Licensing
 
