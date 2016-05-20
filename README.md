@@ -42,10 +42,10 @@ A detailed list of the changes and fixes in each version update can be found in 
 
 ## Resources
 
-[Leaflet](http://leafletjs.com/)
-[Mapbox] (https://www.mapbox.com/)
-[Spiderfier] (https://github.com/jawj/OverlappingMarkerSpiderfier-Leaflet)
-[MapTimeBoston](http://maptimeboston.github.io/leaflet-intro/)
+* [Leaflet](http://leafletjs.com/)
+* [Mapbox] (https://www.mapbox.com/)
+* [Spiderfier] (https://github.com/jawj/OverlappingMarkerSpiderfier-Leaflet)
+* [MapTimeBoston](http://maptimeboston.github.io/leaflet-intro/)
 
 ## Licensing
 
