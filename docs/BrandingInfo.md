@@ -1,11 +1,11 @@
 # Official BSA Colors #
 ## Branding Info ##
 
-[BSA Brand Center] (http://scouting.webdamdb.com/albums.php?albumId=590154)
-[BSA Brand Identity Guide] (http://www.scouting.org/filestore/pdf/Brand_Identity.pdf)
+* [BSA Brand Center] (http://scouting.webdamdb.com/albums.php?albumId=590154)
+* [BSA Brand Identity Guide] (http://www.scouting.org/filestore/pdf/Brand_Identity.pdf)
 
 ## Corporate Trademark Colors ##
-<img src="https://github.com/vwolfley/BSAGrandCanyon-map/blob/develop/img/fleurdelis300x300.jpg" width="50" height="50" alt="Corporate Trademark">
+<img src="https://github.com/vwolfley/BSAGrandCanyon-map/blob/develop/img/fleurdelis300x300.jpg" width="100" height="100" alt="Corporate Trademark">
 <!-- ![alt text](https://github.com/vwolfley/BSAGrandCanyon-map/blob/develop/img/fleurdelis300x300.jpg "Corporate Trademark") -->
 
 * Scouting Red  - `#CE1126`
@@ -28,7 +28,7 @@ Through Boy Scouting, you can go places, test yourself, and have one-of-a-kind
 adventures you can’t get anywhere else.
 
 ### The Universal Emblem Trademark Colors ###
-<img src="https://github.com/vwolfley/BSAGrandCanyon-map/blob/develop/img/Universal_Emblem_4K.jpg" width="50" height="50" alt="Universal Emblem">
+<img src="https://github.com/vwolfley/BSAGrandCanyon-map/blob/develop/img/Universal_Emblem_4K.jpg" width="100" height="100" alt="Universal Emblem">
 <!-- ![alt text](https://github.com/vwolfley/BSAGrandCanyon-map/blob/develop/img/Universal_Emblem_4K.jpg =200x200 "Universal Emblem") -->
 
 * Yellow - `#FFCC00`
@@ -53,7 +53,7 @@ Through Cub Scouting, you and your friends can see and learn fun, new things you
 get anywhere else.
 
 ### Trademark Colors ###
-<img src="https://github.com/vwolfley/BSAGrandCanyon-map/blob/develop/img/CubScout_4K.jpg" width="50" height="50" alt="Cub Scouts">
+<img src="https://github.com/vwolfley/BSAGrandCanyon-map/blob/develop/img/CubScout_4K.jpg" width="100" height="100" alt="Cub Scouts">
 <!-- ![alt text](https://github.com/vwolfley/BSAGrandCanyon-map/blob/develop/img/CubScout_4K.jpg =200x200 "Cub Scouts") -->
 
 * Cub Scout Blue - `#003F87`
@@ -76,7 +76,7 @@ Through Venturing, you and your friends can see the world and experience the adv
 of Scouting.
 
 ### Trademark Colors ###
-<img src="https://github.com/vwolfley/BSAGrandCanyon-map/blob/develop/img/VenturingNoType_4K.jpg" width="50" height="50" alt="Venturing">
+<img src="https://github.com/vwolfley/BSAGrandCanyon-map/blob/develop/img/VenturingNoType_4K.jpg" width="100" height="100" alt="Venturing">
 <!-- ![alt text](https://github.com/vwolfley/BSAGrandCanyon-map/blob/develop/img/VenturingNoType_4K.jpg =200x200 "Venturing") -->
 
 * Venturing Green - `#006B3F`
@@ -86,7 +86,7 @@ of Scouting.
 ### Brand Platform ###
 
 ### Trademark Colors ###
-<img src="https://github.com/vwolfley/BSAGrandCanyon-map/blob/develop/img/varsityV_4k.jpg" width="50" height="50" alt="Varsity">
+<img src="https://github.com/vwolfley/BSAGrandCanyon-map/blob/develop/img/varsityV_4k.jpg" width="100" height="100" alt="Varsity">
 <!-- ![alt text](https://github.com/vwolfley/BSAGrandCanyon-map/blob/develop/img/varsityV_4k.jpg =200x200 "Varsity") -->
 
 * Varsity Orange - `#FF8207`
