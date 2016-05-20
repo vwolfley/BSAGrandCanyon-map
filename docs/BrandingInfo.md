@@ -5,7 +5,8 @@
 [BSA Brand Identity Guide] (http://www.scouting.org/filestore/pdf/Brand_Identity.pdf)
 
 ## Corporate Trademark Colors ##
-![alt text](https://github.com/vwolfley/BSAGrandCanyon-map/blob/develop/img/fleurdelis300x300.jpg =200x200 "Corporate Trademark")
+<img src="https://github.com/vwolfley/BSAGrandCanyon-map/blob/develop/img/fleurdelis300x300.jpg" width="50" height="50" alt="Corporate Trademark">
+<!-- ![alt text](https://github.com/vwolfley/BSAGrandCanyon-map/blob/develop/img/fleurdelis300x300.jpg "Corporate Trademark") -->
 
 * Scouting Red  - `#CE1126`
 * Scouting Blue - `#003F87`
@@ -27,7 +28,8 @@ Through Boy Scouting, you can go places, test yourself, and have one-of-a-kind
 adventures you can’t get anywhere else.
 
 ### The Universal Emblem Trademark Colors ###
-![alt text](https://github.com/vwolfley/BSAGrandCanyon-map/blob/develop/img/Universal_Emblem_4K.jpg =200x200 "Universal Emblem")
+<img src="https://github.com/vwolfley/BSAGrandCanyon-map/blob/develop/img/Universal_Emblem_4K.jpg" width="50" height="50" alt="Universal Emblem">
+<!-- ![alt text](https://github.com/vwolfley/BSAGrandCanyon-map/blob/develop/img/Universal_Emblem_4K.jpg =200x200 "Universal Emblem") -->
 
 * Yellow - `#FFCC00`
 * Brown - `#996633`
@@ -51,7 +53,8 @@ Through Cub Scouting, you and your friends can see and learn fun, new things you
 get anywhere else.
 
 ### Trademark Colors ###
-![alt text](https://github.com/vwolfley/BSAGrandCanyon-map/blob/develop/img/CubScout_4K.jpg =200x200 "Cub Scouts")
+<img src="https://github.com/vwolfley/BSAGrandCanyon-map/blob/develop/img/CubScout_4K.jpg" width="50" height="50" alt="Cub Scouts">
+<!-- ![alt text](https://github.com/vwolfley/BSAGrandCanyon-map/blob/develop/img/CubScout_4K.jpg =200x200 "Cub Scouts") -->
 
 * Cub Scout Blue - `#003F87`
 * Cub Scout Yellow - `#FCD116`
@@ -73,7 +76,8 @@ Through Venturing, you and your friends can see the world and experience the adv
 of Scouting.
 
 ### Trademark Colors ###
-![alt text](https://github.com/vwolfley/BSAGrandCanyon-map/blob/develop/img/VenturingNoType_4K.jpg =200x200 "Venturing")
+<img src="https://github.com/vwolfley/BSAGrandCanyon-map/blob/develop/img/VenturingNoType_4K.jpg" width="50" height="50" alt="Venturing">
+<!-- ![alt text](https://github.com/vwolfley/BSAGrandCanyon-map/blob/develop/img/VenturingNoType_4K.jpg =200x200 "Venturing") -->
 
 * Venturing Green - `#006B3F`
 * Venturing Yellow - `#FCD116`
@@ -82,7 +86,8 @@ of Scouting.
 ### Brand Platform ###
 
 ### Trademark Colors ###
-![alt text](https://github.com/vwolfley/BSAGrandCanyon-map/blob/develop/img/varsityV_4k.jpg =200x200 "Varsity")
+<img src="https://github.com/vwolfley/BSAGrandCanyon-map/blob/develop/img/varsityV_4k.jpg" width="50" height="50" alt="Varsity">
+<!-- ![alt text](https://github.com/vwolfley/BSAGrandCanyon-map/blob/develop/img/varsityV_4k.jpg =200x200 "Varsity") -->
 
 * Varsity Orange - `#FF8207`
 * Varsity Brown -
