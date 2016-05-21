@@ -81,7 +81,6 @@ L.Control.zoomHome = L.Control.extend({
         zoomOutTitle: "Zoom out",
         zoomHomeText: '<i class="fa fa-home" style="line-height:1.65;"></i>',
         zoomHomeTitle: "Zoom home"
-
     },
 
     onAdd: function(map) {
@@ -224,8 +223,36 @@ var cTroops = L.geoJson(cTroops, {
     style: function(feature) {return feature.properties;}
 }).addTo(map);
 
-// add Community Troops
+// add Community Crews
 var cCrews = L.geoJson(cCrews, {
+    onEachFeature: onPointLayer,
+    pointToLayer: L.mapbox.marker.style,
+    style: function(feature) {return feature.properties;}
+}).addTo(map);
+
+// add LDS Packs
+var ldsPacks = L.geoJson(ldsPacks, {
+    onEachFeature: onPointLayer,
+    pointToLayer: L.mapbox.marker.style,
+    style: function(feature) {return feature.properties;}
+}).addTo(map);
+
+// add LDS Troops
+var ldsTroops = L.geoJson(ldsTroops, {
+    onEachFeature: onPointLayer,
+    pointToLayer: L.mapbox.marker.style,
+    style: function(feature) {return feature.properties;}
+}).addTo(map);
+
+// add LDS Teams
+var ldsTeams = L.geoJson(ldsTeams, {
+    onEachFeature: onPointLayer,
+    pointToLayer: L.mapbox.marker.style,
+    style: function(feature) {return feature.properties;}
+}).addTo(map);
+
+// add LDS Crews
+var ldsCrews = L.geoJson(ldsCrews, {
     onEachFeature: onPointLayer,
     pointToLayer: L.mapbox.marker.style,
     style: function(feature) {return feature.properties;}
@@ -238,13 +265,17 @@ var overLays = {
     "Districts": districts,
     "Community Packs": cPacks,
     "Community Troops": cTroops,
-    "Community Crews": cCrews
+    "Community Crews": cCrews,
+    "LDS Packs": ldsPacks,
+    "LDS Troops": ldsTroops,
+    "LDS Teams": ldsTeams,
+    "LDS Crews": ldsCrews
 };
 L.control.layers(baseMaps, overLays).addTo(map);
 L.control.locate({
     position: "bottomright"
-
 }).addTo(map);
+
 
 
 
